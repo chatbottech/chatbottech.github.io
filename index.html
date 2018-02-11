@@ -2,4 +2,10 @@
 layout: default
 ---
 
+{% for item in site.reviews %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
+
 Hello World!

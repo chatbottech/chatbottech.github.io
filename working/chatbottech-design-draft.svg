@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chatbottech-design-draft.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="249.75201"
+     inkscape:cy="495.65084"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1764"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#37006d;stroke:#000000;stroke-opacity:1;fill-opacity:1"
+       id="rect4136"
+       width="733.57141"
+       height="1037.8572"
+       x="2.1428571"
+       y="5.2193465" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4146"
+       width="315"
+       height="61.42857"
+       x="57.428574"
+       y="66.647919" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="68.14286"
+       y="110.21935"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="68.14286"
+         y="110.21935"
+         id="tspan4142">&gt;chatbottech</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.48970222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="59.806145"
+       y="181.66248"
+       id="text4138-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="59.806145"
+         y="181.66248"
+         id="tspan4142-2">The best bot tools for...</tspan></text>
+    <g
+       id="g4254"
+       transform="translate(-16,-83.805102)">
+      <rect
+         y="293.5564"
+         x="78.208443"
+         height="26.935957"
+         width="202.72607"
+         id="rect4146-5-9"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.53122741;stroke-opacity:1"
+         rx="10"
+         ry="10" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138-0-4"
+         y="312.68121"
+         x="87.276649"
+         style="font-style:normal;font-weight:normal;font-size:17.59911156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4142-2-3"
+           y="312.68121"
+           x="87.276649"
+           sodipodi:role="line">Non-technical people</tspan></text>
+    </g>
+    <g
+       id="g4249"
+       transform="translate(212.81897,-120.88897)">
+      <rect
+         y="330.58185"
+         x="77.207237"
+         height="27.052765"
+         width="122.84288"
+         id="rect4146-5-9-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41441962;stroke-opacity:1"
+         rx="10"
+         ry="10" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138-0-4-1"
+         y="349.76508"
+         x="86.333839"
+         style="font-style:normal;font-weight:normal;font-size:17.59911156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4142-2-3-7"
+           y="349.76508"
+           x="86.333839"
+           sodipodi:role="line">Developers</tspan></text>
+    </g>
+    <g
+       id="g4244"
+       transform="translate(357.23817,-153.573)">
+      <rect
+         y="363.2706"
+         x="80.668922"
+         height="27.043325"
+         width="128.54773"
+         id="rect4146-5-9-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4238593;stroke-opacity:1"
+         rx="10"
+         ry="10" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138-0-4-3"
+         y="382.44913"
+         x="89.79081"
+         style="font-style:normal;font-weight:normal;font-size:17.59911156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4142-2-3-1"
+           y="382.44913"
+           x="89.79081"
+           sodipodi:role="line">E-commerce</tspan></text>
+    </g>
+    <g
+       id="g4239"
+       transform="translate(511.14286,-185)">
+      <rect
+         y="394.67801"
+         x="80.33506"
+         height="27.0825"
+         width="105.72976"
+         id="rect4146-5-9-46"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.38468254;stroke-opacity:1"
+         rx="10"
+         ry="10" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138-0-4-9"
+         y="413.87613"
+         x="89.47654"
+         style="font-style:normal;font-weight:normal;font-size:17.59911156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4142-2-3-4"
+           y="413.87613"
+           x="89.47654"
+           sodipodi:role="line">Marketing</tspan></text>
+    </g>
+    <image
+       y="277.21933"
+       x="130.00003"
+       id="image4359"
+       xlink:href="data:image/png;base64,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
+QmCC
+"
+       preserveAspectRatio="none"
+       height="57.142853"
+       width="57.142853" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.71428"
+       y="315.64786"
+       id="text4366"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4368"
+         x="195.71428"
+         y="315.64786"
+         style="fill:#ffffff;fill-opacity:1">Dialogflow</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4374"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#fffc12;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(417.14286,391.42857)"><flowRegion
+         id="flowRegion4376"><rect
+           id="rect4378"
+           width="201.42857"
+           height="50"
+           x="478.57144"
+           y="368.79077"
+           style="fill:#fffc12;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4380">★★★★★</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.861046"
+       y="318.82593"
+       id="text4366-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4368-2"
+         x="61.861046"
+         y="318.82593"
+         style="fill:#ffffff;fill-opacity:1">1.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.33743095px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.041641"
+       y="359.98434"
+       id="text4366-27"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4368-0"
+         x="64.041641"
+         y="359.98434"
+         style="fill:#ffffff;fill-opacity:1">Platforms:                    Messenger, Kik, Slack</tspan><tspan
+         sodipodi:role="line"
+         x="64.041641"
+         y="384.15613"
+         style="fill:#ffffff;fill-opacity:1"
+         id="tspan4418">Ease of use:                <tspan
+   style="fill:#ffff00;fill-opacity:1"
+   id="tspan4426">★★★★</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="64.041641"
+         y="408.32791"
+         style="fill:#ffffff;fill-opacity:1"
+         id="tspan4420">Intelligence potential: <tspan
+   style="fill:#ffff00;fill-opacity:1"
+   id="tspan4428">★★★★★</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="64.041641"
+         y="432.49973"
+         style="fill:#ffffff;fill-opacity:1"
+         id="tspan4422">Value for money:         <tspan
+   style="fill:#ffff00;fill-opacity:1"
+   id="tspan4430">★★★★★</tspan></tspan></text>
+    <g
+       id="g4249-3"
+       transform="translate(377.79989,-39.888889)">
+      <rect
+         y="330.58185"
+         x="77.207237"
+         height="27.052765"
+         width="122.84288"
+         id="rect4146-5-9-5-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41441962;stroke-opacity:1"
+         rx="10"
+         ry="10" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138-0-4-1-6"
+         y="349.76508"
+         x="86.333839"
+         style="font-style:normal;font-weight:normal;font-size:17.59911156px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4142-2-3-7-3"
+           y="349.76508"
+           x="86.333839"
+           sodipodi:role="line">Read review</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.857143,268.07649 512.857147,0"
+       id="path4456"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.857143,451.21935 512.857157,0"
+       id="path4456-4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

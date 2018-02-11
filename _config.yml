@@ -1,6 +1,10 @@
 sass:
-    load_paths:
-        - _sass
-        - node_modules
+  load_paths:
+    - _sass
+    - node_modules
 
 exclude: []
+
+collections:
+  reviews:
+    output: true
