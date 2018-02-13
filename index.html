@@ -3,9 +3,36 @@ layout: default
 ---
 
 {% for item in site.reviews %}
-  <h2>{{ item.platforms }}</h2>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+<div class="row">
+  <div class="col-1">
+    {{ item.position }}.
+  </div>
+  <div class="col">
+    <h5><img width="100" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.title }}</a></h5>
+  </div>
+  <div class="col">
+    <!-- <div class="btn-group"> -->
+    <a href="{{ item.url }}" class="btn btn-light">Read Review</a>
+    <a href="{{ item.site }}" class="btn btn-light">Visit Site</a>
+    <!-- </div> -->
+  </div>
+</div>
+{% for row in item.info %}
+<div class="row">
+  <div class="col-4 text-right">{{ row.name }}:</div><div class="col"> {{ row.value }}</div>
+</div>
+{% endfor %}
+{% for row in item.ratings %}
+<div class="row">
+  <div class="col-4 text-right">{{ row.name }}:</div>
+  <div class="col">
+    {% for i in (1..row.value) %}
+    <span class="star">★</span>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+<hr>
 {% endfor %}
 
 Hello World!

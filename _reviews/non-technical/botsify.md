@@ -1,5 +1,19 @@
 ---
 layout: default
+position: 1
+title: Botsify
+logo: "botsify-logo.png"
+site: "https://botsify.com/"
+info:
+ - name: Platforms
+   value: Messenger, web, Alexa
+ratings:
+ - name: Ease of use
+   value: 2
+ - name: Intelligence potential
+   value: 3
+ - name: Value for money
+   value: 5
 ---
 
 Review of Botsify Chatbot Platform

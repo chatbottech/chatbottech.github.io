@@ -1,4 +1,5 @@
 ---
+logo: "dialogflow-logo.png"
 layout: default
 ---
 
