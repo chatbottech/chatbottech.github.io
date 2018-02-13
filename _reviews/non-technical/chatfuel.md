@@ -1,5 +1,13 @@
 ---
 layout: default
+platforms: Messenger only
+ratings:
+ - name: Ease of use
+   value: 4
+ - name: Intelligence potential
+   value: 2
+ - name: Value for money
+   value: 4
 ---
 
 
