@@ -1,6 +1,18 @@
 ---
-logo: "dialogflow-logo.png"
 layout: default
+title: Dialogflow
+logo: "dialogflow-logo.png"
+site: "https://dialogflow.com/"
+info:
+ - name: Platforms
+   value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber."
+ratings:
+ - name: Ease of use
+   value: 4
+ - name: Intelligence potential
+   value: 4
+ - name: Value for money
+   value: 5
 ---
 
 A Review of Dialogflow (formerly API.ai)
@@ -83,5 +95,5 @@ Summary (scores out of 5):
  - Platforms: Messenger, Google Assistant, Slack, Kik, Line, Skype,
    Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber.
  - Ease of use: 4
- - Intelligence potential: 5
+ - Intelligence potential: 4
  - Value for money: 5

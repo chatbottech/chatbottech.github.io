@@ -1,6 +1,5 @@
 ---
 layout: default
-position: 1
 title: Botsify
 logo: "botsify-logo.png"
 site: "https://botsify.com/"

@@ -44,8 +44,6 @@ def validate():
             print("Checking", file_path)
             with open(file_path) as open_file:
                 doc = yaml.load(get_yaml(open_file))
-                if check('position' in doc, file_path):
-                    check(type(doc['position']) == int, file_path)
                 check('logo' in doc, file_path)
                 check('site' in doc, file_path)
                 check('info' in doc, file_path)

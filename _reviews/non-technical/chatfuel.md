@@ -1,7 +1,11 @@
 ---
 position: 1
 layout: default
-platforms: Messenger only
+title: Chatfuel
+logo: "chatfuel-logo.png"
+info:
+ - name: Platforms
+   value: Messenger only
 ratings:
  - name: Ease of use
    value: 4
