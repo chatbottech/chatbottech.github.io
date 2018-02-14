@@ -10,9 +10,9 @@ info:
    value: GNU Affero GPL v3
 ratings:
  - name: API Design
-   value: 
+   value: 3
  - name: Quality
-   value: 
+   value: 3
 ---
 
 A Review of the Botpress Chatbot Framework
