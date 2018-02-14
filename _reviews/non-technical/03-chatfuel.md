@@ -3,6 +3,7 @@ position: 1
 layout: default
 title: Chatfuel
 logo: "chatfuel-logo.png"
+site: "https://chatfuel.com/"
 info:
  - name: Platforms
    value: Messenger only
