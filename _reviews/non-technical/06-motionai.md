@@ -1,6 +1,11 @@
 ---
 layout: default
-platforms: Webchat, SMS, Messenger, Slack, Email
+title: Motion AI
+logo: "motion-ai-logo.png"
+site: "https://www.motion.ai/"
+info:
+ - name: Platforms
+   value: "Web, SMS, Messenger, Slack, Email"
 ratings:
  - name: Ease of use
    value: 2

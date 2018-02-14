@@ -1,5 +1,18 @@
 ---
 layout: default
+title: Flow XO
+logo: "flow-xo-logo.png"
+site: "https://flowxo.com/"
+info:
+ - name: Platforms
+   value: "Messenger, Slack, Telegram, Twilio, Web"
+ratings:
+ - name: Ease of use
+   value: 3
+ - name: Intelligence potential
+   value: 3
+ - name: Value for money
+   value: 3
 ---
 
 
@@ -42,10 +55,3 @@ Flow XO has the following pricing structure:
    15 bots, 3 months of logs and priority support.
  - An additional 5 bots can be added for $10 a month and an additional
    25,000 interactions can be added for $25 a month
-
-Summary:
-
- - Platforms: Messenger, Slack, Telegram, Twilio SMS and Web
- - Ease of use: 3
- - Intelligence potential: 4
- - Value for money: 3
