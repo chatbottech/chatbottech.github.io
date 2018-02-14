@@ -1,6 +1,11 @@
 ---
 layout: default
-platforms: Messenger
+title: ManyChat
+logo: "manychat-logo.png"
+site: "https://manychat.com/"
+info:
+ - name: Platforms
+   value: Messenger only
 ratings:
  - name: Ease of use
    value: 5
