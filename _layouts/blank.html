@@ -3,15 +3,29 @@
     <link rel="stylesheet" href="/assets/main.css">
   </head>
   <body>
+
+
     <nav class="navbar navbar-expand-lg background-purple">
       <div class="container">
-	<ul class="navbar-nav mr-auto">
-	  <li class="nav-item active">
-	    <a class="btn btn-light m-2" href="/">Tools for Non-technical Users<span class="sr-only">(current)</span></a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="btn btn-light m-2" href="/developer.html">Tools for Developers</a>
-	  </li>
+	<div class="navbar-text m-3">Chatbot tools:</div>
+	<ul class="navbar-nav nav-pills mr-auto">
+	  {% assign sorted = site.pages | sort: 'priority' %}
+	  {% for node in sorted %}
+            {% if node.short != null %}
+      		{% if page.url == node.url %}
+      	          <li class="nav-item m-3 active"><a href="{{ BASE_PATH }}{{node.url}}" class="nav-link active">{{node.short}}</a></li>
+                {% else %}
+                  <li class="nav-item m-3"><a href="{{ BASE_PATH }}{{node.url}}" class="nav-link">{{node.short}}</a></li>
+      		{% endif %}
+	    {% endif %}
+	  {% endfor %}
+
+	  <!-- <li class="nav-item m-3"> -->
+	  <!--   <a class="nav-link active" href="/">Non-technical Users<span class="sr-only">(current)</span></a> -->
+	  <!-- </li> -->
+	  <!-- <li class="nav-item m-3"> -->
+	  <!--   <a class="nav-link" href="/developer.html">Developers</a> -->
+	  <!-- </li> -->
 	</ul>
       </div>
     </nav>
