@@ -2,6 +2,13 @@
 layout: blank
 ---
 
+<div class="container title">
+  <h1><b>>chatbotech</b></h1>
+  <p>Everything you need to know about chatbot creation tools</p>
+  <br>
+  <h3>{{ page.title }}</h3>
+</div>
+
 {% assign rank = 0 %}
 {% for item in site.reviews %}
 {% if item.path contains page.tooltype %}
