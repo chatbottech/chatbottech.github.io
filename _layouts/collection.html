@@ -15,11 +15,8 @@ layout: blank
 {% assign rank = rank | plus: 1 %}
 <div class="container review-item rounded">
   <div class="row">
-    <div class="col-1">
-      {{ rank }}.
-    </div>
     <div class="col">
-      <h5><img height="75" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.title }}</a></h5>
+      <h5>{{ rank }} <img height="75" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.title }}</a></h5>
     </div>
     <div class="col">
       <!-- <div class="btn-group"> -->
