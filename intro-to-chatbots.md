@@ -1,6 +1,6 @@
 ---
 layout: default
-priority: 4
+priority: 3
 title: Introduction to Chatbots
 short: Intro
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-priority: 3
+priority: 4
 title: About chatbottech.io
 short: About
 ---
