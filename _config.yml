@@ -8,6 +8,4 @@ exclude: []
 collections:
   reviews:
     output: true
-  articles:
-    output: true
     

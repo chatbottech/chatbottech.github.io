@@ -1,9 +1,12 @@
 ---
 layout: default
+priority: 4
+title: Introduction to Chatbots
+short: Intro
 ---
 
-Chatbots: the what, why who and how
-===================================
+Chatbots: the what, why and who
+===============================
 
 Having been immersed in the technology for years, I sometimes forget
 that many people are much less familiar with the ideas and jargon that
@@ -99,16 +102,33 @@ point. Contrast this with sending a user to a website, where the user
 has to enter their email address in order to gain their contact
 details.
 
-<!-- What is Chatbottech.io and who is it for? -->
-<!-- ========================================= -->
+Who can build a chatbot?
+========================
 
-<!-- This site is designed primarily for non-technical people who want to -->
-<!-- know about chatbot technology to help them decide which platforms and -->
-<!-- tools are right for them. We also have dedicated areas of the site for -->
-<!-- other types of user: -->
+Thanks to the [tools described on this site](/) anyone can build a
+chatbot! It will help if you have some of the following skills:
 
-<!--  - Developers: we also cover tools aimed at technical users, discuss -->
-<!--    their pros and cons and delve into the details of the underlying -->
-<!--    technology. -->
-<!--  - E-commerce: we review a -->
+ - **User Experience Design** - you need to be able to think through how
+   a user will interact with your bot and how you can make this an
+   easy and fun experience, and test this on real users.
+ - **Copywriting** - your bot is going to talk to people, and you
+   need to be its voice.
 
+If you want to build an advanced bot with complex behaviour, or if
+you'd doing something that hasn't been done before, you might need
+technical skills. In particular:
+
+ - **Software development** - to engineer your solution
+ - **Data science** - to run experiments comparing different
+   variations of your solution, if you're lucky enough to have
+   thousands of users
+ - **Natural language processing** - you don't really need this
+     since there are plenty of tools to do this for you, but it often
+     helps to know the technology behind what you're using
+
+Finally
+=======
+
+Chatbots have the potential to change the way we interact with
+computers. They have yet to live up to that promise, but I hope that
+by identifying the best tools, we will help that become a reality.
