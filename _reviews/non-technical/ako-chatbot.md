@@ -24,6 +24,8 @@ experience in e-commerce. Unfortunately, neither Ako nor any of its current
 competitors seem to be making headway in fulfilling that
 potential. The behaviour of their bots is trivial, to say the best.
 
+<img src="/img/ako-chatbot-screenshot.png" class="img-fluid">
+
 The main purported benefit of using Ako is that you can specify
 answers to frequently asked questions which bot users can access. In
 practice, all you can really do is set up a bunch of menu options and
