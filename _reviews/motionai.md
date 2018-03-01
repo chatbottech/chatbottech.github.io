@@ -6,6 +6,8 @@ site: "https://www.motion.ai/"
 info:
  - name: Platforms
    value: "Web, SMS, Messenger, Slack, Email"
+tags: [any, non-technical]
+score: 36
 ratings:
  - name: Ease of use
    value: 2

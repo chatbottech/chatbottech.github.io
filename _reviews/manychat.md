@@ -6,6 +6,8 @@ site: "https://manychat.com/"
 info:
  - name: Platforms
    value: Messenger only
+tags: [any, non-technical]
+score: 72
 ratings:
  - name: Ease of use
    value: 5

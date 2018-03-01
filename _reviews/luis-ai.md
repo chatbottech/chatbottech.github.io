@@ -6,6 +6,8 @@ site: "https://www.luis.ai/"
 info:
  - name: Type
    value: Semantic Parser
+tags: [any, developer]
+score: 69
 ratings:
  - name: API Design
    value: 4

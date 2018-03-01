@@ -10,6 +10,8 @@ info:
    value: Skype, Facebook, Teams, Slack, SMS and web
  - name: Languages
    value: C# (.NET), Node.js
+tags: [any, developer]
+score: 74
 ratings:
  - name: API Design
    value: 4

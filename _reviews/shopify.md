@@ -6,6 +6,8 @@ site: "https://www.shopify.co.uk/messenger"
 info:
  - name: Platforms
    value: "Messenger"
+tags: [any, non-technical]
+score: 64
 ratings:
  - name: Ease of use
    value: 5

@@ -7,6 +7,8 @@ site: "https://chatfuel.com/"
 info:
  - name: Platforms
    value: Messenger only
+tags: [any, non-technical, developer]
+score: 56
 ratings:
  - name: Ease of use
    value: 4

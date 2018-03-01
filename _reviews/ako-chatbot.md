@@ -6,6 +6,8 @@ site: "https://apps.shopify.com/ako-chatbot"
 info:
  - name: Platforms
    value: "Messenger"
+tags: [any, non-technical]
+score: 36
 ratings:
  - name: Ease of use
    value: 3

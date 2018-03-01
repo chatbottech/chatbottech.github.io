@@ -6,6 +6,8 @@ site: "https://wit.ai/"
 info:
  - name: Type
    value: Semantic Parser
+tags: [any, developer]
+score: 77
 ratings:
  - name: API Design
    value: 4

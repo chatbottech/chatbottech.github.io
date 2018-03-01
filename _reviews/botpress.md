@@ -8,6 +8,8 @@ info:
    value: Open Source Bot Framework
  - name: License
    value: GNU Affero GPL v3
+tags: [any, developer]
+score: 60
 ratings:
  - name: API Design
    value: 3

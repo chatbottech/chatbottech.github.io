@@ -1,7 +1,10 @@
 ---
-layout: collection
+layout: blank
 tooltype: non-technical
 title: Tools and frameworks for non-technical chatbot designers
 short: Non-technical
 priority: 1
 ---
+
+{% assign reviews = site.reviews | sort:"score" | reverse %}
+{% include collection %}

@@ -6,6 +6,8 @@ site: "https://flowxo.com/"
 info:
  - name: Platforms
    value: "Messenger, Slack, Telegram, Twilio, Web"
+tags: [any, non-technical]
+score: 60
 ratings:
  - name: Ease of use
    value: 3

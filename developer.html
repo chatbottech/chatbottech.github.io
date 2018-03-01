@@ -1,7 +1,11 @@
 ---
-layout: collection
+layout: blank
 tooltype: developer
 title: Tools and frameworks for chatbot developers
 short: Developers
 priority: 2
 ---
+
+{% assign reviews = site.reviews | sort:"score" | reverse %}
+{% include collection %}
+

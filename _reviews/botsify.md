@@ -6,6 +6,8 @@ site: "https://botsify.com/"
 info:
  - name: Platforms
    value: Messenger, web, Alexa
+tags: [any, non-technical]
+score: 64
 ratings:
  - name: Ease of use
    value: 2
@@ -26,8 +28,6 @@ templates that might be useful for specific applications: namely
 templates for hospitals, travel agencies, restaurants and general
 FAQs. The user experience with these default bots leaves a lot to be
 desired, as demonstrated in my conversation:
-
-# To do: insert picture
 
 It asks how many guests I want, but fails to recognise "5 guests",
 returning a very unfriendly "Invalid Number" message. Similarly, it
