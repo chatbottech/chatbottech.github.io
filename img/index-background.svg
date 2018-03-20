@@ -3,7 +3,6 @@
     <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>chatbottech.io background</title>
     <defs>
-        <rect id="path-1" x="0" y="0"></rect>
         <linearGradient x1="50%" y1="100%" x2="-27.1635812%" y2="-118.095962%" id="linearGradient-3">
             <stop stop-color="#4F2B73" offset="0%"></stop>
             <stop stop-color="#C996FF" offset="100%"></stop>
@@ -12,12 +11,8 @@
     </defs>
     <g id="CHATBOTTECH-LANDING-PAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
       <g id="Oval-3" transform="translate(0.000000, 8678.000000)">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Mask" fill="#321B49" xlink:href="#path-1"></use>
-            <ellipse fill="#FFFFFF" opacity="0.0444406703" mask="url(#mask-2)" cx="1249.5" cy="-329" rx="529.5" ry="515"></ellipse>
-            <ellipse fill="#FFFFFF" opacity="0.0444406703" mask="url(#mask-2)" cx="497.5" cy="241" rx="566.5" ry="551"></ellipse>
+            <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="1249.5" cy="-329" rx="529.5" ry="515"></ellipse>
+            <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="497.5" cy="241" rx="566.5" ry="551"></ellipse>
       </g>
       <path d="M-122,8367.16905 C103.306663,8237.20175 352.231108,8208.6872 624.773336,8281.62541 C1033.58668,8391.03273 1577.74601,8072.26731 1624.582,7950.31056 C1655.806,7869.00606 1655.806,8111.51833 1624.582,8677.84737 L-109.097563,8677.84737 L-122,8367.16905 Z" id="Path-3" fill="#4F2B73" opacity="0.0444406703"></path>
       <g id="Path-3">
