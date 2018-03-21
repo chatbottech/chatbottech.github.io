@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
-    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
-    <title>chatbottech.io background</title>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>chatbottech.io background</title>
     <defs>
         <linearGradient x1="50%" y1="100%" x2="-27.1635812%" y2="-118.095962%" id="linearGradient-3">
             <stop stop-color="#4F2B73" offset="0%"></stop>
@@ -9,12 +8,11 @@
         </linearGradient>
         <rect id="path-4" x="0" y="0" width="100%" height="100%"></rect>
     </defs>
-    <g id="CHATBOTTECH-LANDING-PAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <g transform="translate(0.000000, 8678.000000)">
-            <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="1249.5" cy="-329" rx="529.5" ry="515"></ellipse>
-            <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="497.5" cy="241" rx="566.5" ry="551"></ellipse>
+    <g>
+      <g>
+        <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="1249.5" cy="-329" rx="529.5" ry="515"></ellipse>
+        <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="497.5" cy="241" rx="566.5" ry="551"></ellipse>
       </g>
-      <path d="M-122,8367.16905 C103.306663,8237.20175 352.231108,8208.6872 624.773336,8281.62541 C1033.58668,8391.03273 1577.74601,8072.26731 1624.582,7950.31056 C1655.806,7869.00606 1655.806,8111.51833 1624.582,8677.84737 L-109.097563,8677.84737 L-122,8367.16905 Z" fill="#4F2B73" opacity="0.0444406703"></path>
       <g>
         <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
 	<svg viewBox="240 0 1440 1000" width="100%" preserveAspectRatio="none">
