@@ -88,11 +88,3 @@ How much does it cost? There are two options:
 It's hard to beat this platform: it has excellent features at a
 reasonable cost. Although the learning curve may be steeper than other
 platforms, the payoff is worth it.
-
-Summary (scores out of 5):
-
- - Platforms: Messenger, Google Assistant, Slack, Kik, Line, Skype,
-   Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber.
- - Ease of use: 4
- - Intelligence potential: 4
- - Value for money: 5
