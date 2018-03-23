@@ -1,0 +1,30 @@
+---
+layout: blank
+---
+
+
+{% assign item = page %}
+<div class="container mb-5">
+
+  <h1 class="mb-5 mt-5">{{ page.title }}</h1>
+
+  <div class="row mb-5 mt-5">
+    <div class="col">
+      <div class="float-left">
+      <h5>{{ rank }} <img height="75" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.name }}</a> - {{item.score}}%</h5>
+      </div>
+      <a href="{{ item.site }}" class="btn btn-light m-2 float-right">Visit Site</a>
+    </div>
+  </div>
+
+  {% for row in item.info %}
+  <div class="row">
+    <div class="col-sm-4 text-right">{{ row.name }}:</div><div class="col-sm"> {{ row.value }}</div>
+  </div>
+  {% endfor %}
+  {% include properties %}
+</div>
+
+<div class="container">
+  {{content}}
+</div>

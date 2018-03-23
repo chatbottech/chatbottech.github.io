@@ -1,0 +1,17 @@
+<div class="container review-item rounded">
+  <div class="row">
+    <div class="col">
+      <div class="float-left">
+      <h5>{{ rank }} <img height="75" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.title }}</a> - {{item.score}}%</h5>
+      </div>
+      <a href="{{ item.url }}" class="btn btn-light m-2 float-right">Read Review</a>
+      <a href="{{ item.site }}" class="btn btn-light m-2 float-right">Visit Site</a>
+    </div>
+  </div>
+  {% for row in item.info %}
+  <div class="row">
+    <div class="col-sm-4 text-right">{{ row.name }}:</div><div class="col-sm"> {{ row.value }}</div>
+  </div>
+  {% endfor %}
+  {% include properties %}
+</div>

@@ -1,0 +1,15 @@
+  {% for row in item.info %}
+  <div class="row">
+    <div class="col-sm-4 text-right">{{ row.name }}:</div><div class="col-sm"> {{ row.value }}</div>
+  </div>
+  {% endfor %}
+  {% for row in item.ratings %}
+  <div class="row">
+    <div class="col-sm-4 text-right">{{ row.name }}:</div>
+    <div class="col-sm">
+      {% for i in (1..row.value) %}
+      <span class="star">★</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}

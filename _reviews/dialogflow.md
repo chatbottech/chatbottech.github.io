@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Dialogflow
+layout: review
+name: Dialogflow
+title: "Dialogflow: Google's chatbot platform doesn't disappoint"
 logo: "dialogflow-logo.png"
 site: "https://dialogflow.com/"
 info:
@@ -16,10 +17,6 @@ ratings:
  - name: Value for money
    value: 5
 ---
-
-A Review of Dialogflow (formerly API.ai)
-========================================
-
 I was quite excited to try out Dialogflow for several reasons. First,
 I knew it had recently been bought be Google, and I know they wouldn't
 buy anything flaky. Secondly, I had just discovered that the company
@@ -40,7 +37,7 @@ to use as some of its competitors, in particular Chatfuel. However,
 once you've got your head round the concepts, the benefits of the
 additional power will definitely pay off.
 
-Dialogue flow is based around "intents". An intent is a representation
+Dialogflow is based around "intents". An intent is a representation
 of what the user has said in a form that the computer understands. So
 if you say "I'd like a train to Norwich", this may be mapped to an
 intent that looks something like:
