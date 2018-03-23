@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Mobile Monkey
+layout: review
+title: Mobile Monkey makes making chatbots easy, but ultimately it’s mediocre
 name: Mobile Monkey
 logo: "mobile-monkey-logo.png"
 site: "https://mobilemonkey.com/"
@@ -18,10 +18,7 @@ ratings:
    value: 4
 ---
 
-A Review of Mobile Monkey Chatbot Creation Tool
-===============================================
-
-Mobile Monkey is aimed squarely at non-technical users - it's tagline
+Mobile Monkey is aimed squarely at non-technical users - its tagline
 is "Chatbots for Marketers - no coding required!" Despite this, it has
 some features that put it before other similar tools in terms of being
 able to build sophisticated behaviour.
@@ -48,3 +45,6 @@ Mobile Monkey has the following pricing structure:
  - $149 a month for up to 2,000 contacts and unlimited bots
 
 Additional contacts are charged at $20 a month per 1,000 contacts.
+
+In summary, Mobile Monkey is easy to use and reasonably priced, with
+some useful features, but ultimately it's mediocre.
