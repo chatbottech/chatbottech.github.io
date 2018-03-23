@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mobile Monkey
+name: Mobile Monkey
 logo: "mobile-monkey-logo.png"
 site: "https://mobilemonkey.com/"
 info:

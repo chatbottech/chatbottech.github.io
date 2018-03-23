@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Botpress
+name: Botpress
 logo: "botpress-logo.png"
 site: "https://botpress.io/"
 info:

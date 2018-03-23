@@ -2,6 +2,7 @@
 position: 1
 layout: default
 title: Chatfuel
+name: Chatfuel
 logo: "chatfuel-logo.png"
 site: "https://chatfuel.com/"
 info:

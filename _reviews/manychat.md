@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ManyChat
+name: ManyChat
 logo: "manychat-logo.png"
 site: "https://manychat.com/"
 info:

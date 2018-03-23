@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LUIS.ai
+name: LUIS.ai
 logo: "microsoft-azure-logo.png"
 site: "https://www.luis.ai/"
 info:

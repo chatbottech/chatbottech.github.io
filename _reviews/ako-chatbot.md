@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ako Chatbot
+name: Ako Chatbot
 logo: "ako-chatbot-logo.png"
 site: "https://apps.shopify.com/ako-chatbot"
 info:

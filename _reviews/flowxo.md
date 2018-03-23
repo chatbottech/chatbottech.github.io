@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Flow XO
+name: Flow XO
 logo: "flow-xo-logo.png"
 site: "https://flowxo.com/"
 info:

@@ -1,7 +1,7 @@
 ---
 layout: review
-name: Dialogflow
 title: "Dialogflow: Google's chatbot platform doesn't disappoint"
+name: Dialogflow
 logo: "dialogflow-logo.png"
 site: "https://dialogflow.com/"
 info:

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rasa
+name: Rasa
 logo: "rasa-logo.png"
 site: "http://rasa.com/"
 info:
