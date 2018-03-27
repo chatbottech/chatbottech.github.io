@@ -22,6 +22,8 @@ Promotion
 =========
 
 Write blog posts for:
+ - [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
+ - [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
  - O'Reilly (?): The secret to chatbot intelligence: semantic parsing 
  - [Hackernoon](http://www.amipublications.com/hacker-noon): It's time to admit it: most chatbot creation tools are rubbish
  - [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5) Something...
