@@ -48,9 +48,23 @@ pre code {
 }
 
 .mp-header {
-    background: url(/img/index-background.svg);
-    width: 100%;
-    height: 1200px;
+    min-height: 720px;
+    position: relative;
+    height: 100%;
+    background: url(/img/index-background.svg) center center;
+    /* background: url(https://nb9-stumbleupon.netdna-ssl.com/zuZ2r1FsBTumc2VqMc6CtA) center center; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    color: #fff;
+
+    /* background: url(/img/index-background.svg); */
+    /* background-repeat:no-repeat; */
+    /* background-size: cover; */
+    /* width: 100%; */
+    /* height: 1200px; */
 }
 
 .navbar-style {

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1000">
   <title>chatbottech.io background</title>
     <defs>
         <linearGradient x1="50%" y1="100%" x2="-27.1635812%" y2="-118.095962%" id="linearGradient-3">
             <stop stop-color="#4F2B73" offset="0%"></stop>
             <stop stop-color="#C996FF" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-4" x="0" y="0" width="100%" height="100%"></rect>
+        <rect id="path-4" x="0" y="0" width="1200" height="1000"></rect>
     </defs>
     <g>
       <g>
@@ -15,7 +15,7 @@
       </g>
       <g>
         <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
-	<svg viewBox="240 0 1440 1000" width="100%" preserveAspectRatio="none">
+	<svg viewBox="240 0 1440 1000" width="1200" height="1000">
           <path d="M150,848.169052 C375.306663,718.201746 624.231108,689.6872 896.773336,762.625413 C1305.58668,872.032734 1849.74601,553.267312 1896.582,431.310561 C1927.806,350.00606 1927.806,592.518331 1896.582,1158.84737 L162.902437,1158.84737 L150,848.169052 Z" fill="#FFFFFF" opacity="0.0444406703"></path>
           <ellipse fill="#FFFFFF" opacity="0.0444406703" cx="1428.5" cy="-285" rx="529.5" ry="515"></ellipse>
 	</svg>
