@@ -13,5 +13,15 @@ $font-family-base:       $font-family-sans-serif;
 
 $font-size-base: 2rem !default; // Assumes the browser default, typically `16px`
 
+// Our own button and input style
+
+$input-btn-padding-x:  1.5rem;
+
+$border-radius:        100px;
+$border-radius-lg:     100px;
+$border-radius-sm:     100px;
+
+
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
+

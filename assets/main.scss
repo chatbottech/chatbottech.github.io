@@ -70,3 +70,33 @@ pre code {
 .navbar-style {
     background: none;
 }
+
+.signup-form {
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+
+.btn-mp {
+    background-color: transparent;
+    border-color: #ffffff;
+    border-width: 3px;
+    color: ffffff;
+}
+
+.btn-mp:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+
+.brands {
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Style brand logo SVGs */
+.brands svg path {
+    fill: white;
+    fill-opacity: 0.5;
+}
