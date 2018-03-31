@@ -69,6 +69,24 @@ pre code {
 
 .navbar-style {
     background: none;
+    transition: all 0.3s ease-in-out;   
+}
+
+.navbar-style svg path {
+    fill: rgb(255, 255, 255);
+    transition: all 0.3s ease-in-out;
+}
+
+.top-nav-scrolled {
+    background-color: white;
+    color: grey;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, .05);
+    transition: all 0.3s ease-in-out;
+}
+
+.top-nav-scrolled svg path {
+    fill: rgb(79,43,115);
+    transition: all 0.3s ease-in-out;
 }
 
 .signup-form {
@@ -99,4 +117,11 @@ pre code {
 .brands svg path {
     fill: white;
     fill-opacity: 0.5;
+}
+
+.white-box {
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, .05);
 }
