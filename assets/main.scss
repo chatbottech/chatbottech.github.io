@@ -72,9 +72,19 @@ pre code {
     transition: all 0.3s ease-in-out;   
 }
 
+.navbar-style svg {
+    height: 150px;
+    transition: all 0.3s ease-in-out;   
+}
+
 .navbar-style svg path {
     fill: rgb(255, 255, 255);
     transition: all 0.3s ease-in-out;
+}
+
+.top-nav-scrolled svg {
+    height: 100px;
+    transition: all 0.3s ease-in-out;   
 }
 
 .top-nav-scrolled {
