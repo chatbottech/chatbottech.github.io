@@ -104,6 +104,30 @@ pre code {
     margin-top: 50px;
 }
 
+.signup-form input, .signup-form select, .signup-form textarea {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.15);
+    color: white;
+}
+
+.signup-form input::placeholder {
+    color: rgba(255,255,255,0.7);
+}
+
+.signup-form input:hover {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.5);
+}
+
+.signup-form input:focus {
+    border-width: 3px;
+    border-color: white;
+    background-color: rgba(255,255,255,0.15);
+    /* background-color: white; */
+    color: white;
+}
+
 .btn-mp {
     background-color: transparent;
     border-color: #ffffff;
@@ -111,7 +135,7 @@ pre code {
     color: ffffff;
 }
 
-.btn-mp:hover {
+.btn-mp:hover, .btn-mp:focus {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
