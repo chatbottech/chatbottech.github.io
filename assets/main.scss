@@ -7,7 +7,7 @@
 html, body {
     /* background-color: #37006d; */
     /* -webkit-transform: translate3d(0,0,0); */
-    color: #ffffff;
+    color: #4f2b73;
     /* font-size: 14pt; */
 }
 
@@ -49,17 +49,17 @@ pre code {
 
 .mp-header {
     min-height: 720px;
-    position: relative;
-    height: 100%;
+    /* position: relative; */
+    /* height: 100%; */
     background: url(/img/index-background.svg) center center;
     /* background: url(https://nb9-stumbleupon.netdna-ssl.com/zuZ2r1FsBTumc2VqMc6CtA) center center; */
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     color: #fff;
-
+    margin-bottom: 250px;
     /* background: url(/img/index-background.svg); */
     /* background-repeat:no-repeat; */
     /* background-size: cover; */
@@ -67,9 +67,14 @@ pre code {
     /* height: 1200px; */
 }
 
+.mp-header h2 {
+    padding-top: 10%;
+}
+
 .navbar-style {
     background: none;
     transition: all 0.3s ease-in-out;   
+    color: white;
 }
 
 .navbar-style svg {
