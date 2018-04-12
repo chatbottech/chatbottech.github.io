@@ -9,6 +9,7 @@ info:
    value: Webchat, Callr, Cisco Spark, Kik, Line, Messenger, Skype, Microsoft Teams, Cortana, Slack, Telegram, Twilio, Twitch, Twitter
 tags: [any, non-technical, developer]
 score: 75
+updated: 2018-04-12
 ratings:
  - name: Ease of use
    value: 4

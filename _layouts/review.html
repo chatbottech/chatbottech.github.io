@@ -18,6 +18,10 @@ layout: blank
   </div>
 
   {% include properties %}
+
+  {% if page.updated %}
+  <p class="my-5"><i>Last updated on {{ page.updated | date: '%B %d, %Y'}}.</i></p>
+  {% endif %}
 </div>
 
 <div class="container">
