@@ -5,6 +5,9 @@ To do
 -----
 
  - Prepare talk for RecSys meetup
+ - Review Cleverscript
+ - Review [Watson Assistant](https://www.ibm.com/watson/services/conversation-4/)
+ - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Arrange to give a talk at marketing meetup
  - Create infographic: which chatbot building tool?
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
@@ -12,7 +15,6 @@ To do
  - Write original headlines for review pages for SEO
  - Implement landing page design
  - Implement user reviews using Staticman
- - Review https://recast.ai/ (SAP)
  - Review Morph.ai
 
 
