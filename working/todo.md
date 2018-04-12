@@ -4,6 +4,7 @@ Notes for Chatbot tech website
 To do
 -----
 
+ - Prepare talk for RecSys meetup
  - Arrange to give a talk at marketing meetup
  - Create infographic: which chatbot building tool?
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
