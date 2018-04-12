@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Recast.AI makes promises it doesn't keep"
+title: "Does Recast.AI make promises it can't keep?"
 name: Recast.AI
 logo: "recast-ai-logo.png"
 site: "https://recast.ai/"
@@ -8,21 +8,22 @@ info:
  - name: Platforms
    value: Webchat, Callr, Cisco Spark, Kik, Line, Messenger, Skype, Microsoft Teams, Cortana, Slack, Telegram, Twilio, Twitch, Twitter
 tags: [any, non-technical, developer]
-score: 
+score: 75
 ratings:
  - name: Ease of use
-   value: 
+   value: 4
  - name: Intelligence potential
-   value: 
+   value: 4
  - name: Value for money
-   value: 
+   value: 4
 ---
 
 Another day, another chatbot builder to destroy.
 
+<img src="/img/recast-ai-screenshot.png" class="img-fluid">
+
 The thing is, they hit a sore nerve on their landing page. It claims,
 "No more dumb bots - easily create bots that truly understand humans."
-
 
 Truly understand. _Truly_ understand. Truly _understand_. That's quite
 a claim.
@@ -80,4 +81,25 @@ GB: Boom! The best parties for this weekend:"
 GB: _presents a carousel of parties that admittedly look like
 they might be interesting, if I were into parties._
 
-What's going on here?
+I'm sorry, Goosebump. You don't truly understand.
+
+Never mind. Because actually, Recast AI is rather good. It provides
+semantic parsing capabilities, much like Dialogflow. And it actually
+works.
+
+The nicest thing is the set of community contributed intents, together
+with expressions which allow you to quickly get your bot going, if
+there happens to be intents which relate to your bot's desired
+capabilities.
+
+Recast AI also boasts an impressive list of no less than fourteen
+different deployment channels. If you need a bot for Twitch, Twilio
+and Twitter, look no further.
+
+Recast AI's website is cagey when it comes to pricing. It is free for
+for individuals, with an (apparently unenforced) limit of three
+requests per second. For companies they offer "bespoke solutions" at
+unspecified cost.
+
+In summary, this tool seems to be good. Just ignore what other people
+make with it, and make something better.
