@@ -9,7 +9,7 @@ info:
    value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber."
 tags: [any, non-technical, developer]
 score: 84
-updated: Thu 12 Apr 14:09:58 BST 2018
+updated: 2018-03-23
 
 ratings:
  - name: Ease of use
