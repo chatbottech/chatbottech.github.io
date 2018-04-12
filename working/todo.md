@@ -8,8 +8,9 @@ To do
  - Review Cleverscript
  - Review [Watson Assistant](https://www.ibm.com/watson/services/conversation-4/)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
+ - Publish [infographic](https://chatbottech.io/choose.html)
+ - Experiment with Facebook ads to find writers for ChatbotTech
  - Arrange to give a talk at marketing meetup
- - Create infographic: which chatbot building tool?
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
  - Blog post: [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
  - Write original headlines for review pages for SEO
