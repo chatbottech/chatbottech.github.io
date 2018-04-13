@@ -9,31 +9,6 @@
 {% for item in reviews %}
 {% if item.tags contains page.tooltype %}
 {% assign rank = rank | plus: 1 %}
-<div class="container review-item rounded">
-  <div class="row">
-    <div class="col">
-      <div class="float-left">
-      <h5>{{ rank }} <img height="75" src="/img/{{ item.logo }}"> <a href="{{ item.url }}">{{ item.title }}</a> - {{item.score}}%</h5>
-      </div>
-      <a href="{{ item.url }}" class="btn btn-light m-2 float-right">Read Review</a>
-      <a href="{{ item.site }}" class="btn btn-light m-2 float-right">Visit Site</a>
-    </div>
-  </div>
-  {% for row in item.info %}
-  <div class="row">
-    <div class="col-sm-4 text-right">{{ row.name }}:</div><div class="col-sm"> {{ row.value }}</div>
-  </div>
-  {% endfor %}
-  {% for row in item.ratings %}
-  <div class="row">
-    <div class="col-sm-4 text-right">{{ row.name }}:</div>
-    <div class="col-sm">
-      {% for i in (1..row.value) %}
-      <span class="star">★</span>
-      {% endfor %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
+{% include summary %}
 {% endif %}
 {% endfor %}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Microsoft Bot Framework
+name: Microsoft Bot Framework
 logo: "microsoft-azure-logo.png"
 site: "https://dev.botframework.com/"
 info:

@@ -1,6 +1,7 @@
 ---
-layout: default
-title: ManyChat
+layout: review
+title: ManyChat does one thing, and does it well
+name: ManyChat
 logo: "manychat-logo.png"
 site: "https://manychat.com/"
 info:
@@ -16,9 +17,6 @@ ratings:
  - name: Value for money
    value: 4
 ---
-
-A Review of ManyChat Chatbot Creator
-=====================================
 
 I like Manychat because it is easy to use, it focuses on doing one
 thing and doing it well. It is targeted at marketers and only works

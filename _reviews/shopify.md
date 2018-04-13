@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shopify for Messenger
+name: Shopify for Messenger
 logo: "shopify-logo.png"
 site: "https://www.shopify.co.uk/messenger"
 info:

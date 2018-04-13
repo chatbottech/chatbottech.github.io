@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Landbot
+name: Landbot
 logo: "landbot-logo.png"
 site: "https://landbot.io/"
 info:

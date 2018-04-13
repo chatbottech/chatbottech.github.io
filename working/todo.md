@@ -4,17 +4,18 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Finish copy for services page
- - Submit JAR job for services page
- - Submit JAR job for reviews summary pages
- - Submit JAR job for review pages
- - Implement user reviews using Staticman
- - Blog post for SEO: [Hackernoon](http://www.amipublications.com/hacker-noon): Making static sites dynamic with Staticman
- - Add ratings to review page
+ - Prepare talk for RecSys meetup
+ - Review Cleverscript
+ - Review [Watson Assistant](https://www.ibm.com/watson/services/conversation-4/)
+ - Review [Amazon Lex](https://aws.amazon.com/lex/)
+ - Publish [infographic](https://chatbottech.io/choose.html)
+ - Experiment with Facebook ads to find writers for ChatbotTech
+ - Arrange to give a talk at marketing meetup
+ - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
+ - Blog post: [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
  - Write original headlines for review pages for SEO
-
  - Implement landing page design
- - Review https://recast.ai/ (SAP)
+ - Implement user reviews using Staticman
  - Review Morph.ai
 
 
@@ -22,8 +23,6 @@ Promotion
 =========
 
 Write blog posts for:
- - [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
- - [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
  - O'Reilly (?): The secret to chatbot intelligence: semantic parsing 
  - [Hackernoon](http://www.amipublications.com/hacker-noon): It's time to admit it: most chatbot creation tools are rubbish
  - [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5) Something...

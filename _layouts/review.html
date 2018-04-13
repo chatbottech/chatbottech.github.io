@@ -1,0 +1,29 @@
+---
+layout: blank
+---
+
+
+{% assign item = page %}
+<div class="container mb-5">
+
+  <h1 class="mb-5 mt-5">{{ page.title }}</h1>
+
+  <div class="row mb-5 mt-5">
+    <div class="col">
+      <div class="float-left">
+      <h5>{{ rank }} <img height="75" src="/img/{{ item.logo }}"> <a class="mx-5" href="{{ item.url }}">{{ item.name }}</a> {{item.score}}%</h5>
+      </div>
+      <a href="{{ item.site }}" class="btn btn-light m-2 float-right">Visit Site</a>
+    </div>
+  </div>
+
+  {% include properties %}
+
+  {% if page.updated %}
+  <p class="my-5"><i>Last updated on {{ page.updated | date: '%B %d, %Y'}}.</i></p>
+  {% endif %}
+</div>
+
+<div class="container">
+  {{content}}
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Octane AI
+name: Octane AI
 logo: "octane-ai-logo.png"
 site: "https://octaneai.com/"
 info:
