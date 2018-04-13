@@ -4,11 +4,11 @@
   <head>
     <!-- Required meta tags always come first -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Material Design Bootstrap Template</title>
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <\!-- Font Awesome -\-> -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
     <!-- Bootstrap core CSS -->
     <link href="./node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 
@@ -17,6 +17,7 @@
     <style>
       body, html {
       height: 100%;
+      text-size-adjust: none;
       }
       .bg {
       /* The image used */
@@ -29,13 +30,35 @@
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-      }       
+      }
+
+      
     </style>
   </head>
 
   <body>
 
-    <div class="bg"></div>
+    <div class="bg">
+      <div class="container">
+	<h2 class="text-center"><br><br>Buildamazingchatbots</h2>
+	<h6 class="text-center">Get free chatbot building tips</h6>
+	
+	<div class="row mx-auto">
+	  <div class="col">
+	    <form class="form-inline signup-form">
+	      <label class="sr-only" for="inlineFormInput">Email</label>
+	      <input type="email" class="form-control mx-2 mb-2 mr-sm-2 mb-sm-0" id="inlineFormInput" placeholder="Email">
+	      <label class="sr-only" for="inlineFormInputGroup">Username</label>
+	      <div class="input-group mb-2 mr-sm-2 mb-sm-0 mx-2">
+		<input type="text" class="form-control" id="inlineFormInputGroup" placeholder="First name">
+	      </div>
+	      <button type="submit" class="btn btn-mp mx-2">Get it!</button>
+	    </form>
+	  </div>
+	</div>
+	
+      </div>
+    </div>
 
     <p class="py-5 text-center">This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
 
