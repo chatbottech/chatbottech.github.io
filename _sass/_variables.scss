@@ -23,6 +23,15 @@ $border-radius-sm:     100px;
 
 /* $enable-shadows: true; */
 
+$grid-breakpoints: (
+  xs: 0,
+  sm: 1800px,
+  md: 1800px,
+  lg: 1800px,
+  xl: 1800px
+) !default;
+
+
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
 
