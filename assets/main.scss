@@ -62,8 +62,12 @@ pre code {
 }
 
 .navbar-style {
-    background: none;
+    background: transparent;
     transition: all 0.3s ease-in-out;   
+    color: white;
+}
+
+.navbar-style button {
     color: white;
 }
 
