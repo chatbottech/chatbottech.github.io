@@ -4,15 +4,13 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Prepare talk for RecSys meetup
- - Review Cleverscript
- - Review [Watson Assistant](https://www.ibm.com/watson/services/conversation-4/)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Publish [infographic](https://chatbottech.io/choose.html)
- - Experiment with Facebook ads to find writers for ChatbotTech
+ - Get a list of chatbot tools that need reviewing
+ - Experiment with Facebook ads/Fiverr/Mechanical Turk to find writers for ChatbotTech
+ - Analyse chatbot semantic parsers/NLU systems for accuracy
  - Arrange to give a talk at marketing meetup
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
- - Blog post: [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
  - Write original headlines for review pages for SEO
  - Implement landing page design
  - Implement user reviews using Staticman
