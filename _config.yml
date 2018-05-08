@@ -8,4 +8,5 @@ exclude: []
 collections:
   reviews:
     output: true
-    
+
+url: https://chatbottech.io

@@ -22,7 +22,7 @@
       {% else %}
       <meta name="twitter:description" content="{{ content | strip_html | strip | truncate: 1500 }}">
       {% endif %}
-      <meta name="twitter:image" content="{{ page.image }}">
+      <meta name="twitter:image" content="{{ page.image | absolute_url }}">
     {% endif %}
   </head>
   <body>
