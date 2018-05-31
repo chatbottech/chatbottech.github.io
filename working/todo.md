@@ -4,18 +4,19 @@ Notes for Chatbot tech website
 To do
 -----
 
+ - Ask Jonny if he would like to write for ChatbotTech
+ - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
- - Publish [infographic](https://chatbottech.io/choose.html)
  - Get a list of chatbot tools that need reviewing
- - Experiment with Facebook ads/Fiverr/Mechanical Turk to find writers for ChatbotTech
+ - Post a job/set of jobs on Fiverr
+ - Publish Fiverr post from Jen
  - Analyse chatbot semantic parsers/NLU systems for accuracy
- - Arrange to give a talk at marketing meetup
- - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
+ - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots and speech interfaces
  - Write original headlines for review pages for SEO
  - Implement landing page design
  - Implement user reviews using Staticman
  - Review Morph.ai
-
+ - Review [Tars](https://hellotars.com/)
 
 Promotion
 =========

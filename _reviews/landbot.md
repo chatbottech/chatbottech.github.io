@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Landbot
+layout: review
+title: Landbot is fun & unique, costs €20/€50 per month
 name: Landbot
 logo: "landbot-logo.png"
 site: "https://landbot.io/"
