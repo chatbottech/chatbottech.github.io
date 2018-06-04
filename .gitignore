@@ -2,3 +2,5 @@
 _site
 .sass-cache
 __pycache__
+twitterbot/credentials.py
+twitterbot/venv/
