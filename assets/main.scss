@@ -73,6 +73,11 @@ pre code {
     color: white;
 }
 
+.top-nav-scrolled button {
+    color: rgb(79,43,115);
+    transition: all 0.3s ease-in-out;   
+}
+
 .navbar-style svg {
     height: 150px;
     transition: all 0.3s ease-in-out;   
