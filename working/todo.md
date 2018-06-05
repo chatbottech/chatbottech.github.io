@@ -4,12 +4,10 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Ask Jonny if he would like to write for ChatbotTech
+ - Improve popular page: 
  - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Get a list of chatbot tools that need reviewing
- - Post a job/set of jobs on Fiverr
- - Publish Fiverr post from Jen
  - Analyse chatbot semantic parsers/NLU systems for accuracy
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots and speech interfaces
  - Write original headlines for review pages for SEO
