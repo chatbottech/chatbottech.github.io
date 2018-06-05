@@ -1,0 +1,197 @@
+---
+---
+
+// Our own button and input style
+
+$input-btn-padding-x:  1.5rem;
+
+$border-radius:        100px;
+$border-radius-lg:     100px;
+$border-radius-sm:     100px;
+
+
+@import "variables";
+@import "bootstrap/scss/bootstrap";
+
+html, body {
+    color: #4f2b73;
+}
+
+.test {
+    width: 100%;
+}
+
+.background-purple {
+    background-color: #502B73;
+}
+
+hr {
+    height: 2px;
+    color: #ffffff;
+    background: #ffffff;
+    font-size: 0;
+    border: 0;
+}
+
+.title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.star {
+    color: #ffff00;
+}
+
+.review-item {
+    background: #502B73;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+pre code {
+    color: #ffffff;
+}
+
+.mp-header {
+    background-image: url(/img/index-background.svg);
+    
+    min-height: 100vh;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+    padding-bottom: 150px;
+}
+
+@include media-breakpoint-up(sm) {
+    .mp-header h2 {
+	padding-top: 10%;
+    }
+}
+
+.navbar-style {
+    background: transparent;
+    transition: all 0.3s ease-in-out;   
+    color: white;
+}
+
+.navbar-style button {
+    color: white;
+}
+
+.top-nav-scrolled button {
+    color: rgb(79,43,115);
+    transition: all 0.3s ease-in-out;   
+}
+
+.navbar-style svg {
+    height: 150px;
+    transition: all 0.3s ease-in-out;   
+}
+
+.navbar-style svg path {
+    fill: rgb(255, 255, 255);
+    transition: all 0.3s ease-in-out;
+}
+
+.top-nav-scrolled svg {
+    height: 100px;
+    transition: all 0.3s ease-in-out;   
+}
+
+.top-nav-scrolled {
+    background-color: white;
+    color: grey;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, .05);
+    transition: all 0.3s ease-in-out;
+}
+
+.top-nav-scrolled svg path {
+    fill: rgb(79,43,115);
+    transition: all 0.3s ease-in-out;
+}
+
+.signup-form {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@include media-breakpoint-up(sm) {
+    .signup-form {
+	margin-bottom: 200px;
+	margin-top: 50px;
+    }
+}
+
+.signup-form input, .signup-form select, .signup-form textarea {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.15);
+    color: white;
+}
+
+.signup-form input::placeholder {
+    color: rgba(255,255,255,0.7);
+}
+
+.signup-form input:hover {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.5);
+}
+
+.signup-form input:focus {
+    border-width: 3px;
+    border-color: white;
+    background-color: rgba(255,255,255,0.15);
+    color: white;
+}
+
+.btn-mp {
+    background-color: transparent;
+    border-color: #ffffff;
+    border-width: 3px;
+    font-weight: bold;
+    color: white;
+}
+
+.btn-mp:hover, .btn-mp:focus {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+
+.brands {
+    width: 100%;
+    /* margin: auto; */
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Style brand logo SVGs */
+.brands svg path {
+    fill: white;
+    fill-opacity: 0.5;
+}
+
+.white-box {
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    box-shadow: 0px 0px 30px 10px rgba(0, 0, 0, .05);
+}
+
+.white-box .btn {
+    background-color: f5a623;
+    color: white;
+    font-weight: bold;
+}
+
+.white-box .btn:hover {
+    background-color: rgba(245, 166, 35, 0.8);    
+}
+
+.pop-up {
+    margin-top: -150px;
+}
