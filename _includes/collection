@@ -1,5 +1,5 @@
 <div class="container title">
-  <h1><b>>chatbottech</b></h1>
+  <h1><b>ChatbotTech</b></h1>
   <p>Impartial reviews of chatbot creation tools</p>
   <br>
   <h3>{{ page.title }}</h3>
