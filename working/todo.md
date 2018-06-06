@@ -4,20 +4,17 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Prepare talk for RecSys meetup
- - Review Cleverscript
- - Review [Watson Assistant](https://www.ibm.com/watson/services/conversation-4/)
+ - Improve popular page: 
+ - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
- - Publish [infographic](https://chatbottech.io/choose.html)
- - Experiment with Facebook ads to find writers for ChatbotTech
- - Arrange to give a talk at marketing meetup
- - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots
- - Blog post: [KDNuggets](https://www.kdnuggets.com/news/submissions.html) Introduction to semantic parsing
+ - Get a list of chatbot tools that need reviewing
+ - Analyse chatbot semantic parsers/NLU systems for accuracy
+ - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots and speech interfaces
  - Write original headlines for review pages for SEO
  - Implement landing page design
  - Implement user reviews using Staticman
  - Review Morph.ai
-
+ - Review [Tars](https://hellotars.com/)
 
 Promotion
 =========

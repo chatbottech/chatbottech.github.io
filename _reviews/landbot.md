@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Landbot
+layout: review
+title: Landbot is fun & unique, costs €20/€50/€130 per month
 name: Landbot
 logo: "landbot-logo.png"
 site: "https://landbot.io/"
@@ -17,9 +17,6 @@ ratings:
  - name: Value for money
    value: 4
 ---
-
-A Review of Landbot Chatbot Creation Tool
-=========================================
 
 Landbot is unique in several respects. It is the only platform that
 primarily targets the web, although Messenger is available on the paid

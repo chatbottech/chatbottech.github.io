@@ -12,6 +12,18 @@
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link rel="stylesheet" href="/assets/main.css">
     <title>{{page.title}} - ChatbotTech reviews</title>
+    {% if page.image != null %}
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@ChatbotTech">
+      <meta name="twitter:creator" content="@daarkecloud">
+      <meta name="twitter:title" content="{{ page.title }}">
+      {% if page.summary != null %}
+      <meta name="twitter:description" content="{{ page.summary }}">
+      {% else %}
+      <meta name="twitter:description" content="{{ content | strip_html | strip | truncate: 1500 }}">
+      {% endif %}
+      <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+    {% endif %}
   </head>
   <body>
 
