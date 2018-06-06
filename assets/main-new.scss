@@ -78,6 +78,12 @@ pre code {
     color: white;
 }
 
+@include media-breakpoint-down(md) {
+    .navbar ul {
+	background: white;
+    }
+}
+
 .navbar-style button {
     color: white;
 }
@@ -87,19 +93,33 @@ pre code {
     transition: all 0.3s ease-in-out;   
 }
 
-.navbar-style svg {
-    height: 150px;
-    transition: all 0.3s ease-in-out;   
+@include media-breakpoint-up(md) {
+    .navbar-style svg {
+	height: 150px;
+	transition: all 0.3s ease-in-out;   
+    }
+
+    .top-nav-scrolled svg {
+	height: 100px;
+	transition: all 0.3s ease-in-out;   
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .navbar-style svg {
+	height: 75px;
+    }
+}
+
+@include media-breakpoint-down(xs) {
+    .navbar-style svg {
+	height: 60px;
+    }
 }
 
 .navbar-style svg path {
     fill: rgb(255, 255, 255);
     transition: all 0.3s ease-in-out;
-}
-
-.top-nav-scrolled svg {
-    height: 100px;
-    transition: all 0.3s ease-in-out;   
 }
 
 .top-nav-scrolled {
