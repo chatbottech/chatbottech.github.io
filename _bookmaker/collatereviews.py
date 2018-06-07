@@ -33,10 +33,11 @@ def render_content(reviews):
         content = markdown(clean(review.content))
 
         name = review['name']
-        title = clean(review['title'])
+        title = markdown(clean(review['title'])).strip()
         # print("TITLE", title)
-        title = markdown(title.replace(name, "\\textbf{%s}" % name)).strip()
-        print("\section{%s}\n" % title)
+        # title = markdown(title.replace(name, "\\textbf{%s}" % name)).strip()
+        print("\section*{%s}\n" % title)
+        print("\markboth{%s}{%s}\n\n" % (name, name))
         print(content)
 
 

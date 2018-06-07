@@ -1,5 +1,7 @@
-
+import re
 import misaka
+
+IMAGE_REGEX = re.compile(r'<img src=\"([^\"]+)\"')
 
 
 class LatexRenderer(misaka.BaseRenderer):
@@ -13,11 +15,18 @@ class LatexRenderer(misaka.BaseRenderer):
         return "\\item " + content + "\n"
 
     def link(self, content, link, title):
-        return "\\hyperref[title]{link}"
+        link = link.replace('#', '\#')
+        return "\\href{%s}{%s}" % (link, content)
 
     def normal_text(self, text):
         text = text.replace('$', '\\$')
         return text.replace('&', '\\&')
+
+    def raw_html(self, text):
+        match = IMAGE_REGEX.match(text)
+        if match is not None:
+            image = match.group(1)
+            return "\\begin{center}\\includegraphics[width=\\textwidth]{..%s}\\end{center}" % image
 
     # def emphasis(self, content):
     #     pass
