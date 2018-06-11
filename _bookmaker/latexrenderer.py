@@ -20,6 +20,7 @@ class LatexRenderer(misaka.BaseRenderer):
 
     def normal_text(self, text):
         text = text.replace('$', '\\$')
+        text = text.replace('#', '\#')
         return text.replace('&', '\\&')
 
     def raw_html(self, text):
@@ -27,6 +28,12 @@ class LatexRenderer(misaka.BaseRenderer):
         if match is not None:
             image = match.group(1)
             return "\\begin{center}\\includegraphics[width=\\textwidth]{..%s}\\end{center}" % image
+
+    def blockcode(self, text, lang):
+        return "\\verb{%s}" % text
+
+    def codespan(self, text):
+        return "\\begin{verbatim}%s\\end{verbatim}" % text
 
     # def emphasis(self, content):
     #     pass

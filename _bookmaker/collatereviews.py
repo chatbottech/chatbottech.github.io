@@ -30,16 +30,29 @@ def render_content(reviews):
     renderer = LatexRenderer()
     markdown = misaka.Markdown(renderer)
     for review in reviews:
-        content = markdown(clean(review.content))
-
         name = review['name']
         title = markdown(clean(review['title'])).strip()
         # print("TITLE", title)
         # title = markdown(title.replace(name, "\\textbf{%s}" % name)).strip()
         print("\section*{%s}\n" % title)
         print("\markboth{%s}{%s}\n\n" % (name, name))
-        print(content)
 
+        print("\\begin{block}\\begin{tabular}{lp{5.5cm}}")
+        for info in review['info']:
+            key = info['name']
+            value = markdown(info['value']).strip()
+            print("%s: & %s\\\\" % (key, value))
+
+        for info in review['ratings']:
+            key = info['name']
+            value = info['value']
+            print("%s: & %s\\\\" % (key, '$' + '\\bigstar ' * value + '$'))
+        print("%s: & %s\\\\" % ("Overall score:", "%d\\%%" % review['score']))
+        print("\\end{tabular}\\end{block}\n\n")
+
+        content = markdown(clean(review.content))
+        print(content)
+        print("\\raggedbottom\n\\pagebreak\n")
 
 
 if __name__ == "__main__":
