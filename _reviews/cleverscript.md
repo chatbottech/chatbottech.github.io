@@ -25,7 +25,7 @@ ratings:
 ---
 
 Cleverscript is the technology behind
-[https://en.wikipedia.org/wiki/Cleverbot](Cleverbot), whose
+[Cleverbot](https://en.wikipedia.org/wiki/Cleverbot), whose
 predecessor Jaberwacky won the Loebner prize in 1996. This is a
 competition which awards a prize for creating chatbots that are judged
 by humans to be the most human-like. It thus has a long history,

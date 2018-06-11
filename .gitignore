@@ -4,3 +4,12 @@ _site
 __pycache__
 twitterbot/credentials.py
 twitterbot/venv/
+
+*.aux
+*.log
+*.out
+*.pdf
+_bookmaker/collated.tex
+
+_twitterbot/credentials.py
+_twitterbot/venv/
