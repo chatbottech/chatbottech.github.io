@@ -139,12 +139,12 @@ pre code {
     margin-top: 20px;
 }
 
-@include media-breakpoint-up(sm) {
-    .signup-form {
-	margin-bottom: 200px;
-	margin-top: 50px;
-    }
-}
+/* @include media-breakpoint-up(sm) { */
+/*     .signup-form { */
+/* 	margin-bottom: 200px; */
+/* 	margin-top: 50px; */
+/*     } */
+/* } */
 
 .signup-form input, .signup-form select, .signup-form textarea {
     border-width: 3px;
