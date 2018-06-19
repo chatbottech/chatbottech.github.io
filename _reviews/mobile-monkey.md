@@ -16,7 +16,11 @@ ratings:
    value: 3
  - name: Value for money
    value: 4
+updated: 2018-06-19
 ---
+
+Monkeys for Marketers
+---------------------
 
 MobileMonkey is aimed squarely at non-technical users - its tagline
 is "Chatbots for Marketers - no coding required!" Despite this, it has
@@ -29,6 +33,9 @@ your bot's replies.
 
 <img src="/img/mobile-monkey-screenshot.png" class="img-fluid">
 
+Flow Monkeys
+------------
+
 The user experience is defined in terms of "pages" - collections of
 messages sent by the bot to user. These are typically followed by a
 collection of quick response buttons which send the user to a
@@ -39,6 +46,9 @@ manner, it does allow for some fairly sophisticated flows to be
 designed, if you're willing to put in the time to think through all
 the different routes and possibilities.
 
+Monkey Pricing
+--------------
+
 MobileMonkey has the following pricing structure:
  - Free for up to 100 contacts and one bot
  - $49 a month for up to 1.000 contacts and one bot
@@ -46,5 +56,14 @@ MobileMonkey has the following pricing structure:
 
 Additional contacts are charged at $20 a month per 1,000 contacts.
 
+What next?
+----------
+
 In summary, MobileMonkey is easy to use and reasonably priced, with
 some useful features, but ultimately it's mediocre.
+
+MobileMonkey's closest competitor is
+[ManyChat](https://manychat.com/), which is also aimed at
+marketers. It has a similar feature set, but we thought it was
+slightly easier to use and better value. Check out the
+[full reviewhere](/reviews/manychat.html).
