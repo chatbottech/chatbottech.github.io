@@ -66,4 +66,4 @@ MobileMonkey's closest competitor is
 [ManyChat](https://manychat.com/), which is also aimed at
 marketers. It has a similar feature set, but we thought it was
 slightly easier to use and better value. Check out the
-[full reviewhere](/reviews/manychat.html).
+[full review here](/reviews/manychat.html).
