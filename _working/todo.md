@@ -5,7 +5,6 @@ To do
 -----
 
  - Improve sign-up copy on review pages
- - Fix input height on landing page
  - Fix colours on landing page
  - Switch email list to Mailchimp
  - Create a pop-up with Opt-in Monster
