@@ -4,9 +4,15 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Improve popular page: 
+ - Improve sign-up copy on review pages
+ - Fix input height on landing page
+ - Fix colours on landing page
+ - Switch email list to Mailchimp
+ - Create a pop-up with Opt-in Monster
+ - Improve popular page: ManyChat
  - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
+ - Review SNIPS
  - Get a list of chatbot tools that need reviewing
  - Analyse chatbot semantic parsers/NLU systems for accuracy
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots and speech interfaces
