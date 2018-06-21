@@ -4,22 +4,25 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Improve sign-up copy on review pages
- - Fix colours on landing page
- - Switch email list to Mailchimp
+ - Switch to using Mailchimp
+ - Merge Dialogflow tutorial as a separate page
+ - Write blog post on using modal logic for planning dialogue
  - Create a pop-up with Opt-in Monster
  - Improve popular page: ManyChat
- - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Review SNIPS
+ - Review Morph.ai
+ - Review [Tars](https://hellotars.com/)
+ - Implement user reviews using Staticman
  - Get a list of chatbot tools that need reviewing
+ - Fix colours on landing page
+ - Implement design for review list pages
+ - Email blog owners to ask if they're interested in seeing [infographic](https://backlinko.com/how-to-get-backlinks)
+ - Create a [twitter bot](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)
+ - Think about creating an online community with a Slack alternative (spectrum/discord/discourse/mattermost)
  - Analyse chatbot semantic parsers/NLU systems for accuracy
  - Blog post: [Venture Beat](https://venturebeat.com/guest-posts/) The future of chatbots and speech interfaces
  - Write original headlines for review pages for SEO
- - Implement landing page design
- - Implement user reviews using Staticman
- - Review Morph.ai
- - Review [Tars](https://hellotars.com/)
 
 Promotion
 =========
@@ -37,7 +40,6 @@ Write blog posts for:
    Something about NLP/semantics? Or the future of chatbots?
  - How do Siri and Google Now work?
  
-
 
 Done
 ====
