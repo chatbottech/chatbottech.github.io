@@ -28,29 +28,45 @@ Dialogflow is an excellent tool for creating chatbots. It is flexible, powerful 
 
 Example
 -------
-Let’s suppose we have an e-commerce store. This is actually a very frequent use case for chatbots. Your users can buy stuff but they also might want to do other things such as check their order status as they ordered a t-shirt last week and it hasn’t arrived yet. This is a task that you might want to automate to save time from your support team so let’s build a chatbot for checking your user’s order status in your e-commerce store.
+
+Let’s suppose we have an e-commerce store. This is actually a very
+frequent use case for chatbots. Your users can make purchases but they also
+might want to do other things such as check their order status. Perhaps they
+ordered a t-shirt last week and it hasn’t arrived yet. This is a task
+that you might want to automate to save time from your support team.
+
+In this article we'll build a chatbot for checking your user’s order
+status in your e-commerce store.
 
 Creating the chatbot
 -------
-First of all, you’ll need to login to Dialogflow and create a new agent:
+
+First of all, you’ll need to log in to Dialogflow and create a new agent:
 <img src="/img/tutorials/dialogflow/1.png" class="img-fluid mx-auto d-block">
 
-We will name our chatbot TutorialChatbot but you can name it as you want. At this step we need to choose a language for our chatbot.
+We'll call our chatbot "TutorialChatbot" but you can name it as you
+want. At this step we need to choose a language for our chatbot.
 
 <img src="/img/tutorials/dialogflow/2.png" class="img-fluid mx-auto d-block">
 
 Understanding what the user wants: Intents
 --------
-When talking to a chatbot, a user might be very clear and start a conversation by saying “I want to know the order status of order id 12345” but this is not the most usual case. Frequently a user just starts a conversation by saying “Hello” and we want our chatbot to answer the user’s greeting accordingly.
+
+When talking to a chatbot, a user might be very clear and start a
+conversation by saying “I want to know the order status of order id
+12345” but this is not the most usual case. Frequently a user just
+starts a conversation by saying “Hello” and we want our chatbot to
+answer the user’s greeting accordingly.
 
 
-How does a chatbot work? You take whatever the user says and pass it through a Natural Language Processing (NLP) service to extract the user’s intent like this:
+How does a chatbot work? You take whatever the user says and pass it
+through a Natural Language Understanding (NLU) service to extract the
+user’s intent like this:
 
+    Input: “Hello! How are you?” → NLU → Intent: Greeting
 
-Input: “Hello! How are you?” → NLP → Intent: Greeting
-
-
-In this case, Dialogflow will be taking care of extracting the intent as it’s our NLP provider.
+In this case, Dialogflow will be taking care of extracting the intent
+as it’s our NLU provider.
 
 
 We can detect casual intents, such as greetings, goodbyes or other more business related such as check order status. We need to teach our chatbot which intents it will need to handle. This can be done by creating the intents we need as seen below. First we start by clicking the Create Intent button:
