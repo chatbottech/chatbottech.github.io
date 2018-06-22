@@ -4,6 +4,7 @@ Notes for Chatbot tech website
 To do
 -----
 
+ - Improve the mobile monkey review
  - Switch to using Mailchimp
  - Merge Dialogflow tutorial as a separate page
  - Write blog post on using modal logic for planning dialogue
@@ -11,10 +12,11 @@ To do
  - Improve popular page: ManyChat
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Review SNIPS
- - Review Morph.ai
- - Review [Tars](https://hellotars.com/)
+ - Make the tools sections on the landing page clickable (not just the buttons)
  - Implement user reviews using Staticman
  - Get a list of chatbot tools that need reviewing
+ - Review Morph.ai
+ - Review [Tars](https://hellotars.com/)
  - Fix colours on landing page
  - Implement design for review list pages
  - Email blog owners to ask if they're interested in seeing [infographic](https://backlinko.com/how-to-get-backlinks)
