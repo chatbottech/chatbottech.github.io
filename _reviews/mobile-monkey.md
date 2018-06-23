@@ -19,11 +19,11 @@ ratings:
 updated: 2018-06-19
 ---
 
-Monkeys for Marketers
+Chatbots for marketers
 ---------------------
 
-MobileMonkey is aimed squarely at non-technical users - its tagline
-is "Chatbots for Marketers - no coding required!" Despite this, it has
+MobileMonkey is aimed squarely at non-technical users - its tagline is
+"Chatbots for Marketers - no coding required!" Despite this, it has
 some features that put it before other similar tools in terms of being
 able to build sophisticated behaviour.
 
@@ -33,34 +33,79 @@ your bot's replies.
 
 <img src="/img/mobile-monkey-screenshot.png" class="img-fluid">
 
-Flow Monkeys
+Monkey features
+---------------
+
+MobileMonkey is not really different to any other chatbot building
+tool in terms of the features it provides. The difference is in how it
+positions itself. It is aimed squarely at marketers, specifically,
+those using Facebook Messenger.
+
+This means that the features that are emphasised in the promotional
+material are those features likely to appeal to marketers. They have a
+feature called "[Chat Blast](https://mobilemonkey.com/chatbots/facebook-messenger-chat-blaster)",
+which is just the ability to send messages to multiple users. This
+could be all your users, or a particular segment.
+
+This features is undoubtedly valuable to marketers. It is worth
+bearing in mind, however, that other tools also have this feature. For
+example, [Chatfuel](/reviews/chatfuel.html) has a similar feature they
+call
+"[broadcasting](https://docs.chatfuel.com/broadcasting/broadcasting-documentation/broadcasting)".
+
+Similarly, MobileMonkey's [live chat](https://mobilemonkey.com/chatbots/live-operator-chat-takeover/)
+feature is similar to Chatfuel's, available via a
+[plugin](https://docs.chatfuel.com/plugins/plugin-documentation/live-chat).
+
+Flow monkeys
 ------------
 
-The user experience is defined in terms of "pages" - collections of
-messages sent by the bot to user. These are typically followed by a
-collection of quick response buttons which send the user to a
-different page. The user is thus exploring a network (or graph) of pages with
-buttons providing the connections between the nodes in the
-network. Whilst it may be cumbersome to build the interface in this
-manner, it does allow for some fairly sophisticated flows to be
-designed, if you're willing to put in the time to think through all
-the different routes and possibilities.
+In terms of automated messages, the user experience is defined in
+terms of "pages" - collections of messages sent by the bot to
+user. These are typically followed by a collection of quick response
+buttons which send the user to a different page. The user is thus
+exploring a network (or graph) of pages with buttons providing the
+connections between the nodes in the network. Whilst it may be
+cumbersome to build the interface in this manner, it does allow for
+some fairly sophisticated flows to be designed, if you're willing to
+put in the time to think through all the different routes and
+possibilities.
 
-Monkey Pricing
+Monkey pricing
 --------------
 
 MobileMonkey has the following pricing structure:
- - Free for up to 100 contacts and one bot
- - $49 a month for up to 1.000 contacts and one bot
- - $149 a month for up to 2,000 contacts and unlimited bots
+ - Free for unlimited contacts but limited features
+ - $49 a month: includes scheduled blasts, drip campaigns and bot
+   analytics. It is likely that if you are serious about using bots
+   for marketing you are going to want to use some of these
+   features. Limited to 5,000 contacts.
+ - $149 a month: agency dashboard, unlimited live bots and Facebook
+   pages, and premier support. Limited to 5,000 contacts. I suspect
+   this offer is just here to make the $49 a month one look more
+   attractive. I can't see an obvious reason why most people would
+   need this option.
 
 Additional contacts are charged at $20 a month per 1,000 contacts.
 
-What next?
-----------
+Monkey positioning
+------------------
 
 In summary, MobileMonkey is easy to use and reasonably priced, with
 some useful features, but ultimately it's mediocre.
+
+MobileMonkey is not different to other chatbot tools in terms of the
+features it provides, but in terms of how it positions itself as being
+for marketers. It is worth considering how much you value this as a
+marketer. It does mean that the supporting documentation and
+promotional material will quickly point you at the features you need
+and how they will benefit you. It may also mean that you get more
+support tailored towards marketing.
+
+In terms of features, however, MobileMonkey is much like other tools.
+
+What next?
+----------
 
 MobileMonkey's closest competitor is
 [ManyChat](https://manychat.com/), which is also aimed at
