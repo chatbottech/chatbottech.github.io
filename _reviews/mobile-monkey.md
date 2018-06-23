@@ -47,7 +47,7 @@ feature called "[Chat Blast](https://mobilemonkey.com/chatbots/facebook-messenge
 which is just the ability to send messages to multiple users. This
 could be all your users, or a particular segment.
 
-This features is undoubtedly valuable to marketers. It is worth
+This feature is undoubtedly valuable to marketers. It is worth
 bearing in mind, however, that other tools also have this feature. For
 example, [Chatfuel](/reviews/chatfuel.html) has a similar feature they
 call
@@ -60,7 +60,7 @@ feature is similar to Chatfuel's, available via a
 Flow monkeys
 ------------
 
-In terms of automated messages, the user experience is defined in
+What about actually building a bot? The user experience is defined in
 terms of "pages" - collections of messages sent by the bot to
 user. These are typically followed by a collection of quick response
 buttons which send the user to a different page. The user is thus
