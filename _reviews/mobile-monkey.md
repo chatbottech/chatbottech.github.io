@@ -86,7 +86,8 @@ MobileMonkey has the following pricing structure:
    attractive. I can't see an obvious reason why most people would
    need this option.
 
-Additional contacts are charged at $20 a month per 1,000 contacts.
+Additional contacts are available from $24 a month, and you can save
+15% by signing up for a whole year.
 
 Monkey positioning
 ------------------
