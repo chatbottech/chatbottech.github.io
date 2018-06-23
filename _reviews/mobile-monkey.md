@@ -94,13 +94,11 @@ Monkey positioning
 In summary, MobileMonkey is easy to use and reasonably priced, with
 some useful features, but ultimately it's mediocre.
 
-MobileMonkey is not different to other chatbot tools in terms of the
-features it provides, but in terms of how it positions itself as being
-for marketers. It is worth considering how much you value this as a
-marketer. It does mean that the supporting documentation and
-promotional material will quickly point you at the features you need
-and how they will benefit you. It may also mean that you get more
-support tailored towards marketing.
+Since MobileMonkey distinguishes itself by targeting marketers, it is
+worth considering how much you value this. It does mean that the
+supporting documentation and promotional material will quickly point
+you at the features you need and how they will benefit you. It may
+also mean that you get more support tailored towards marketing.
 
 In terms of features, however, MobileMonkey is much like other tools.
 
