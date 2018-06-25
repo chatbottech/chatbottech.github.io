@@ -90,3 +90,15 @@ How much does it cost? There are two options:
 It's hard to beat this platform: it has excellent features at a
 reasonable cost. Although the learning curve may be steeper than other
 platforms, the payoff is worth it.
+
+What next?
+----------
+
+We think Dialogflow is one of the best tools for building
+chatbots. That's why we've created a special [tutorial on how to
+create a support chatbot](/tutorial-dialogflow.html) just for
+Dialogflow.
+
+However it's not for everyone. There are plenty of other tools out
+there. Check out our [top chatbot building tools](/non-technical.html)
+for non-technical users.

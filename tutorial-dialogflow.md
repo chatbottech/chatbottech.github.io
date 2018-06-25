@@ -1,24 +1,37 @@
 ---
-layout: review
-title: "Dialogflow: Google's chatbot platform doesn't disappoint"
-name: Dialogflow
-logo: "dialogflow-logo.png"
-site: "https://dialogflow.com/"
-info:
- - name: Platforms
-   value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber."
-tags: [any, non-technical, developer]
-score: 84
-updated: 2018-03-23
-
-ratings:
- - name: Ease of use
-   value: 4
- - name: Intelligence potential
-   value: 4
- - name: Value for money
-   value: 5
+layout: default
+priority: 5
+title: Creating a customer support chatbot with Dialogflow
+short: About
 ---
+
+<!-- layout: review -->
+<!-- title: "Dialogflow: Google's chatbot platform doesn't disappoint" -->
+<!-- name: Dialogflow -->
+<!-- logo: "dialogflow-logo.png" -->
+<!-- site: "https://dialogflow.com/" -->
+<!-- info: -->
+<!--  - name: Platforms -->
+<!--    value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber." -->
+<!-- tags: [any, non-technical, developer] -->
+<!-- score: 84 -->
+<!-- updated: 2018-03-23 -->
+
+<!-- ratings: -->
+<!--  - name: Ease of use -->
+<!--    value: 4 -->
+<!--  - name: Intelligence potential -->
+<!--    value: 4 -->
+<!--  - name: Value for money -->
+<!--    value: 5 -->
+
+Creating a customer support chatbot with Dialogflow
+===================================================
+
+
+<img src="/img/rawpixel-584292-unsplash.jpg" class="img-fluid mx-auto my-5 d-block">
+
+_Photo by [rawpixel](https://unsplash.com/photos/T9pyYmue1x4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash_
 
 Why use Dialogflow?
 ----------------
@@ -60,7 +73,6 @@ conversation by saying “I want to know the order status of order id
 12345” but this is not the most usual case. Frequently a user just
 starts a conversation by saying “Hello” and we want our chatbot to
 answer the user’s greeting accordingly.
-
 
 How does a chatbot work? You take whatever the user says and pass it
 through a Natural Language Understanding (NLU) service to extract the
@@ -278,4 +290,5 @@ what is possible.
 <!-- and in case it starts talking to a lot of users, we just pay for what -->
 <!-- we use. -->
 
+{% include signup %}
 
