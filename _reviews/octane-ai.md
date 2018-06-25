@@ -30,7 +30,7 @@ presses the button while logged into Facebook, and while the checkbox
 is ticked will have their Messenger contact details sent to the shop
 owner, allowing them to contact them at any future point in time.
 
-![Octane AI checkbox](/img/octane-ai-ticked.png)
+<img src="/img/octane-ai-ticked.png" class="img-fluid">
 
 It is easy to see why this is valuable. The shop owner will
 automatically have contact details for the majority of users who do

@@ -77,7 +77,7 @@ GB: Now, write your request or click on one of the following options:
 
 Me: _clicks on "This weekend"_
 
-GB: Boom! The best parties for this weekend:"
+GB: Boom! The best parties for this weekend:
 
 GB: _presents a carousel of parties that admittedly look like
 they might be interesting, if I were into parties._
