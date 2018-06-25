@@ -1,0 +1,27 @@
+  <h2>All the reviews, one PDF</h2>
+  <p>Choosing the right chatbot tool can be difficult. There are a lot
+    of tools, and their quality varies a lot. The purpose of
+    ChatbotTech is to make choosing a chatbot tool as painless as
+    possible. We've reviewed and rated the top chatbot tools so you
+    can quickly find the one that is right for you.</p>
+  <p>Sign up below and we'll send you a free PDF containing all the
+  reviews, and ChatbotTech's guide to choosing a chatbot. We'll also
+  send you occasional news and updates (no more than once a week).<p>
+
+    <div class="row mx-auto">
+      <div class="col">
+	<!-- Begin MailChimp Signup Form -->
+	<div id="mc_embed_signup">
+	  <form action="https://replycraft.us6.list-manage.com/subscribe/post?u=3fe77eb5fe&amp;id=dfd39bcdba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+	    <input placeholder="Enter your email" type="email" value="" name="EMAIL" class="required email form-control mr-2" id="mce-EMAIL">
+	    <input placeholder="First name" type="text" value="" name="FNAME" class="form-control m-2" id="mce-FNAME">
+	    <div class="response" id="mce-error-response" style="display:none"></div>
+	    <div class="response" id="mce-success-response" style="display:none"></div>
+	    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3fe77eb5fe_dfd39bcdba" tabindex="-1" value=""></div>
+	    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn ml-2"></div>
+	  </form>
+	</div>
+	<!--End mc_embed_signup-->
+      </div>
+    </div>
