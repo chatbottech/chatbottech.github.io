@@ -5,7 +5,6 @@ To do
 -----
 
  - Write blog post on using modal logic for planning dialogue
- - Create a pop-up with Opt-in Monster
  - Improve popular page: ManyChat
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Review SNIPS
