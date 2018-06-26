@@ -2,7 +2,6 @@
 layout: default
 priority: 5
 title: Creating a customer support chatbot with Dialogflow
-short: About
 ---
 
 <!-- layout: review -->
