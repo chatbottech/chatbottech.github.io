@@ -24,6 +24,10 @@ thing and doing it well. It is targeted at marketers and only works
 with the Facebook Messenger platform. This makes sense because in my
 opinion there is a huge opportunity for Messenger marketing.
 
+It also has a nice landing page design:
+
+<img src="/img/manychat-landing.png" class="img-fluid">
+
 Getting going
 -------------
 
