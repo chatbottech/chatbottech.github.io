@@ -22,7 +22,7 @@ About me
 <img width="300" src="/img/daoud.jpg" class="float-left mt-2 mr-5 mb-2">
 Hi, I'm Daoud! I've been excited about conversational interfaces ever
 since I watched Star Trek as a kid (although I don't think that term
-excited then). I actually used to read books about parsing and grammar
+existed then). I actually used to read books about parsing and grammar
 on holiday because I really wanted to understand this stuff. I ended
 up doing a PhD in computational linguistics and inventing my own
 theory of meaning.
