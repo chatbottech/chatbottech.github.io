@@ -19,7 +19,7 @@ ratings:
 updated: 2018-07-02
 ---
 
-I like Manychat because it is easy to use, it focuses on doing one
+I like ManyChat because it is easy to use, it focuses on doing one
 thing and doing it well. It is targeted at marketers and only works
 with the Facebook Messenger platform. This makes sense because in my
 opinion there is a huge opportunity for Messenger marketing.
@@ -89,7 +89,7 @@ this professionally.
 What next?
 ----------
 
-Manychat is a great tool for marketers. There are other options
+ManyChat is a great tool for marketers. There are other options
 however - you might want to look at
 [MobileMonkey](/reviews/mobile-monkey.html) which has a similar
 feature set and is aimed at the same market. Otherwise, there are
