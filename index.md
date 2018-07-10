@@ -33,4 +33,36 @@ This site divides tools into two main categories:
   useful even for those that are able to code. An example of a popular
   tool in this category is [Chatfuel](/reviews/chatfuel.html)
 - [Developer tools](/developer.html): these are tools that require
-  coding to use effectively.
+  coding to use effectively. An example of this is [Microsoft's Bot
+  Framework](/reviews/microsoft-bot-framework.html) which requires
+  coding in C# or Node.js. [Facebook's Wit.ai](/reviews/witai.html)
+  provides an API which developers can use to help understand user's
+  requests.
+
+Some tools fall into both categories, for example [Google's
+Dialogflow](/reviews/dialogflow.html) can be used without doing any
+development, but provides additional capabilities for those who want
+to integrate with their code.
+
+<h3 class="text-center m-5">Tools for marketers</h3>
+
+Within each category there are different types of tool. For example,
+both [Mobile Monkey](/reviews/mobile-monkey.html) and
+[ManyChat](/reviews/manychat.html) are non-technical tools aimed at
+marketers.
+
+There is a lot of potential for using chatbots for marketing. For
+example, it is possible to use Facebook advertising to send users
+directly to a Messenger chatbot. Users interacting with the chatbot
+consent to be contacted by the bot at a later point in time. This
+means that the cost-per-acquisition of Messenger contacts can be much
+lower than traditional email marketing.
+
+<h3 class="text-center m-5">Chatbots for e-commerce</h3>
+
+If you use Shopify, you can provide users with a chatbot experience
+with [their own built-in chatbot](/reviews/shopify.html), or you can
+use a third party plugin such as [Octane
+AI](/reviews/octane-ai.html). Either way, it makes sense to use a
+chatbot platform tailored to e-commerce, and Shopify in particular.
+
