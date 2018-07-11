@@ -4,6 +4,7 @@ Notes for Chatbot tech website
 To do
 -----
 
+ - Sign up for Opt-in Monster again
  - Write blog post on using modal logic for planning dialogue
  - Improve popular page: ManyChat
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
