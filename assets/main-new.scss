@@ -213,11 +213,32 @@ pre code {
     background-color: gray;    
 }
 
-.white-box .btn:hover {
-    background-color: rgba(245, 166, 35, 0.8);    
-}
+// .white-box .btn:hover {
+//     background-color: rgba(245, 166, 35, 0.8);    
+// }
 
 .pop-up {
     margin-top: -150px;
     margin-bottom: 50px;
 }
+
+.clickable {
+    transition: all 0.3s ease-in-out;   
+}
+
+.clickable:hover .btn {
+    background-color: rgba(245, 166, 35, 0.8);        
+}
+
+.clickable:hover {
+    color: black;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 30px 30px rgba(0, 0, 0, .04);
+    position: relative;
+    z-index: 1;
+}
+
+// .pop-up .clickable:hover {
+//     margin-top: -20px;
+// }
