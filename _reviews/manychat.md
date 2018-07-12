@@ -1,6 +1,6 @@
 ---
 layout: review
-title: ManyChat does one thing, and does it well
+title: ManyChat is a great tool for marketers, but it's not the only option
 name: ManyChat
 logo: "manychat-logo.png"
 site: "https://manychat.com/"
