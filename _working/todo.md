@@ -4,8 +4,12 @@ Notes for Chatbot tech website
 To do
 -----
 
- - Create a Facebook ad experiment to optimise the landing page title
+ - Review Pullstring (demo requested)
+ - Review Brand Embassy (demo requested)
  - Write blog post on using modal logic for planning dialogue
+ - Propose blog post "How conversational interfaces will change your business" [HBR](https://hbr.org/guidelines-for-authors)
+ - Write blog post for Entrepreneur if accepted
+ - Write blog post for [AllBusiness](https://www.allbusiness.com/guest-post-overview)
  - Improve popular page: ManyChat
  - Review [Amazon Lex](https://aws.amazon.com/lex/)
  - Review SNIPS
