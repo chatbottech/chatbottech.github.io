@@ -17,3 +17,6 @@ not(basket(milk)) :- before(add_to_basket(milk)).
 
 % What about generalisations?
 
+% either
+basket(X) :- after(add_to_basket(X)).
+
