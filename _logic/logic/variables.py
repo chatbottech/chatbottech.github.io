@@ -1,3 +1,4 @@
+from enum import Enum
 
 
 class Duration:
@@ -5,13 +6,17 @@ class Duration:
         self.name = name
 
 
-class Option:
-    def __init__(self, name, options):
-        self.name = name
-        self.options = options
+class Option(Enum):
+    # def __init__(self, name, options):
+    #     self.name = name
+    #     self.options = options
 
-    def __eq__(self, other):
-        return Equals(self, other)
+    # def __eq__(self, other):
+    #     return Equals(self, other)
+
+    def __str__(self):
+        return type(self).__name__.replace("_", " ") + " is " + self.name
+
 
 
 class Equals:
