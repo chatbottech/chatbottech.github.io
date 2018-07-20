@@ -12,6 +12,11 @@ class visa_type(Option):
     business = 2
 
 
+class profession(Option):
+    entrepreneur = 1
+    investor = 2
+    other = 3
+
 # def test_visa():
 #     kb = KnowledgeBase()
 #
@@ -36,3 +41,8 @@ def test_option():
 def test_conjunction():
     assert str(visa_purpose.business & visa_type.short_term_study) == \
         "visa purpose is business and visa type is short term study"
+
+
+def test_multiple_conjunctions():
+    assert str(visa_purpose.business & visa_type.short_term_study & profession.investor) == \
+           "visa purpose is business and visa type is short term study and profession is investor"
