@@ -6,17 +6,21 @@ class Duration:
         self.name = name
 
 
-class Option(Enum):
-    # def __init__(self, name, options):
-    #     self.name = name
-    #     self.options = options
-
-    # def __eq__(self, other):
-    #     return Equals(self, other)
+class Conjunction:
+    def __init__(self, first, second):
+        self.first = first
+        self.second = second
 
     def __str__(self):
-        return type(self).__name__.replace("_", " ") + " is " + self.name
+        return str(self.first) + " and " + str(self.second)
 
+
+class Option(Enum):
+    def __str__(self):
+        return type(self).__name__.replace("_", " ") + " is " + self.name.replace("_", " ")
+
+    def __and__(self, other):
+        return Conjunction(self, other)
 
 
 class Equals:

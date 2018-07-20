@@ -31,3 +31,8 @@ class visa_type(Option):
 
 def test_option():
     assert str(visa_purpose.business) == "visa purpose is business"
+
+
+def test_conjunction():
+    assert str(visa_purpose.business & visa_type.short_term_study) == \
+        "visa purpose is business and visa type is short term study"
