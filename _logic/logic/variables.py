@@ -6,8 +6,9 @@ class Duration:
 
 
 class Option:
-    def __init__(self, name):
+    def __init__(self, name, options):
         self.name = name
+        self.options = options
 
     def __eq__(self, other):
         return Equals(self, other)
