@@ -1,6 +1,6 @@
 ---
 layout: review
-title: MobileMonkey makes making chatbots easy, but ultimately it’s mediocre
+title: MobileMonkey makes making chatbots easy, but ultimately it’s marketing manna
 name: MobileMonkey
 logo: "mobile-monkey-logo.png"
 site: "https://mobilemonkey.com/"
@@ -75,7 +75,9 @@ Monkey pricing
 --------------
 
 MobileMonkey has the following pricing structure:
- - Free for unlimited contacts but limited features
+ - Free for unlimited contacts but limited features. This is actually
+   a very generous free tier as it does not require using the
+   MobileMarketing branding, unlike other tools free tiers.
  - $49 a month: includes scheduled blasts, drip campaigns and bot
    analytics. It is likely that if you are serious about using bots
    for marketing you are going to want to use some of these
@@ -93,7 +95,12 @@ Monkey positioning
 ------------------
 
 In summary, MobileMonkey is easy to use and reasonably priced, with
-some useful features, but ultimately it's mediocre.
+features tailored to Facebook marketing.
+
+You won't build a very intelligent bot with MobileMonkey, but if
+you're interested in marketing, you probably don't need one. You just
+need to send messages to users in an intelligent way, and MobileMonkey
+provides you with tools to do that.
 
 Since MobileMonkey distinguishes itself by targeting marketers, it is
 worth considering how much you value this. It does mean that the
@@ -101,7 +108,8 @@ supporting documentation and promotional material will quickly point
 you at the features you need and how they will benefit you. It may
 also mean that you get more support tailored towards marketing.
 
-In terms of features, however, MobileMonkey is much like other tools.
+The generous free tier means that it is probably worth trying out if
+you're looking for a bot to help with Facebook marketing.
 
 What next?
 ----------
