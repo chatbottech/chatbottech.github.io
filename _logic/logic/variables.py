@@ -1,11 +1,6 @@
 from enum import Enum
 
 
-class Duration:
-    def __init__(self, name):
-        self.name = name
-
-
 class Statement:
     def __and__(self, other):
         return Conjunction(self, other)
