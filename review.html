@@ -1,0 +1,60 @@
+---
+layout: blank
+tooltype: non-technical
+title: Write a review for ChatbotTech
+---
+
+
+<div class="container title">
+  <h1><b>Write a review for ChatbotTech</b></h1>
+  <br>
+  <form action="https://api.staticman.net/v2/entry/chatbottech/chatbottech.github.io/master"
+        method="POST">
+    <div class="form-group row">
+      <!-- <div class="col-lg-6 mx-auto"> -->
+	<label for="name">Name</label>
+	<input class="form-control" id="user-email" name="email" placeholder="Your name" type="text">
+      <!-- </div> -->
+    </div>
+    <div class="form-group row">
+      <!-- <div class="col-lg-6 mx-auto"> -->
+	<label for="example-tel-input">Link to your site</label>
+        <input class="form-control" id="example-tel-input" name="telephone"
+               placeholder="Enter a link (optional)" type="url">
+      <!-- </div> -->
+    </div>
+
+    <div class="form-group row">
+      <label> Rate the tool out of five (one is terrible, five is excellent) </label>
+      <br>
+      <div class="btn-group btn-group-toggle" data-toggle="buttons">
+	<label class="btn btn-primary active">
+	  <input type="radio" name="options" id="option1" autocomplete="off" checked> <span class="mx-5">1</span>
+	</label>
+	<label class="btn btn-primary">
+	  <input type="radio" name="options" id="option2" autocomplete="off"> <span class="mx-5">2</span>
+	</label>
+	<label class="btn btn-primary">
+	  <input type="radio" name="options" id="option3" autocomplete="off"> <span class="mx-5">3</span>
+	</label>
+	<label class="btn btn-primary">
+	  <input type="radio" name="options" id="option2" autocomplete="off"> <span class="mx-5">4</span>
+	</label>
+	<label class="btn btn-primary">
+	  <input type="radio" name="options" id="option3" autocomplete="off"> <span class="mx-5">5</span>
+	</label>
+      </div>
+    </div>
+
+    <div class="form-group row">
+	<label for="review">Write your review</label>
+	<textarea class="form-control" name="review" id="review"></textarea>
+    </div>
+
+    <div class="form-group row">
+      <div class="col text-center">
+	<button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+    </div>
+  </form>
+</div>
