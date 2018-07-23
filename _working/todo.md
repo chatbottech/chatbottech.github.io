@@ -4,6 +4,11 @@ Notes for Chatbot tech website
 To do
 -----
 
+ - Fix review PR yaml.yml
+ - Add reviews to each tool and include the tool name in the request
+ - Put reviews for different tools in different locations (?)
+ - Fix form input sizes
+ - Add review content into the tool page
  - Review Pullstring (demo requested)
  - Review Brand Embassy (demo requested)
  - Write blog post on using modal logic for planning dialogue
