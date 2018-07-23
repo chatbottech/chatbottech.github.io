@@ -1,7 +1,7 @@
 ---
-position: 1
-layout: default
-title: Chatfuel
+layout: review
+title: "Chatfuel: non-technical chatbot magic for $30 - $775 a month"
+name: Chatfuel
 logo: "chatfuel-logo.png"
 site: "https://chatfuel.com/"
 info:
@@ -17,10 +17,6 @@ ratings:
  - name: Value for money
    value: 4
 ---
-
-
-Review of Chatfuel Bot Creation Tool
-====================================
 
 Chatfuel is a tool for creating chatbots for Facebook Messenger with
 an intuitive and easy-to-use web interface. It is perfect if you need

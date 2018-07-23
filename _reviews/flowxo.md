@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Flow XO
+layout: review
+title: Flow XO really gets it wrong
+name: Flow XO
 logo: "flow-xo-logo.png"
 site: "https://flowxo.com/"
 info:
@@ -16,10 +17,6 @@ ratings:
  - name: Value for money
    value: 3
 ---
-
-
-Review of Flow XO Chatbot Creator
-=================================
 
 Flow XO is a weird one. It's like it's been designed by a programmer
 that thinks that designing bots is just like programming. Because it

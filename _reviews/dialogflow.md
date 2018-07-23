@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Dialogflow
+layout: review
+title: "Dialogflow: Google's chatbot platform doesn't disappoint"
+name: Dialogflow
 logo: "dialogflow-logo.png"
 site: "https://dialogflow.com/"
 info:
@@ -8,6 +9,8 @@ info:
    value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber."
 tags: [any, non-technical, developer]
 score: 84
+updated: 2018-03-23
+
 ratings:
  - name: Ease of use
    value: 4
@@ -16,10 +19,6 @@ ratings:
  - name: Value for money
    value: 5
 ---
-
-A Review of Dialogflow (formerly API.ai)
-========================================
-
 I was quite excited to try out Dialogflow for several reasons. First,
 I knew it had recently been bought be Google, and I know they wouldn't
 buy anything flaky. Secondly, I had just discovered that the company
@@ -40,7 +39,7 @@ to use as some of its competitors, in particular Chatfuel. However,
 once you've got your head round the concepts, the benefits of the
 additional power will definitely pay off.
 
-Dialogue flow is based around "intents". An intent is a representation
+Dialogflow is based around "intents". An intent is a representation
 of what the user has said in a form that the computer understands. So
 if you say "I'd like a train to Norwich", this may be mapped to an
 intent that looks something like:
@@ -92,10 +91,14 @@ It's hard to beat this platform: it has excellent features at a
 reasonable cost. Although the learning curve may be steeper than other
 platforms, the payoff is worth it.
 
-Summary (scores out of 5):
+What next?
+----------
 
- - Platforms: Messenger, Google Assistant, Slack, Kik, Line, Skype,
-   Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber.
- - Ease of use: 4
- - Intelligence potential: 4
- - Value for money: 5
+We think Dialogflow is one of the best tools for building
+chatbots. That's why we've created a special [tutorial on how to
+create a support chatbot](/tutorial-dialogflow.html) just for
+Dialogflow.
+
+However it's not for everyone. There are plenty of other tools out
+there. Check out our [top chatbot building tools](/non-technical.html)
+for non-technical users.

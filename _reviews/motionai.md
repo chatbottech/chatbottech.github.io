@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Motion AI
+name: Motion AI
 logo: "motion-ai-logo.png"
 site: "https://www.motion.ai/"
 info:

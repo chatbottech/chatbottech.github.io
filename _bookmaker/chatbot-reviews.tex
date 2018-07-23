@@ -1,0 +1,130 @@
+\documentclass[ebook,article,11pt]{memoir}
+
+% \usepackage{setspace}
+
+\usepackage{mdframed}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amssymb}
+
+\usepackage [english]{babel}
+\usepackage [autostyle, english = american, maxlevel = 4]{csquotes}
+\MakeOuterQuote{"}
+
+%% \usepackage{quotes}
+
+\definecolor{myblue}{RGB}{190,190,255}
+
+\newmdenv[backgroundcolor=myblue,roundcorner=2pt,skipabove=3pt,skipbelow=3pt,%
+          hidealllines=true,font=\small,splittopskip=0.45cm,splitbottomskip=0.1cm]{block}
+
+% \usepackage{tikz}
+
+% \tikzstyle{block} = [rectangle, thick, fill=myblue, text width=\textwidth - 0.2cm, %<---------= 
+%              rounded corners, minimum height=1em, font=\small,
+%              minimum width=\textwidth]
+
+% \usetikzlibrary{shadows}
+
+
+\pagestyle{myheadings}
+
+\renewcommand{\rmdefault}{ppl}
+% \setstretch{1.5}
+
+\author{Daoud Clarke, ChatbotTech.io\\
+  \\
+  Copyright \copyright\ Hyperparameter Limited 2018}
+
+\title{ChatbotTech's guide to chatbot tools 2018}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\chapter{Introduction}
+\markboth{Introduction}{Introduction}
+
+It seems like every day there is a new chatbot tool. While building a
+chatbot is becoming easier and easier, knowing which is the
+\emph{best} tool for you is becoming harder and harder, simply because
+there are so many tools.
+
+ChatbotTech.io was created to solve this problem. We've reviewed the
+most popular tools, so you don't have to. Each tool is reviewed and
+rated, so you can quickly find the best tools and see which ones are
+likely to work for you. I have personally tried out each tool reviewed
+here, and I can tell you, they are not all the same! Some are good and
+some are sad and some are very very bad, to paraphrase Dr Seuss. When
+they're bad, I won't be afraid to say so.
+
+\section*{Too long, didn't read}
+
+Because there are so many tools, it's hard to know where to
+start. Well, start here!
+
+\begin{center}
+\includegraphics[width=\textwidth]{guide.png}
+\end{center}
+
+The chances are, one of these top tools will be right for you:
+\begin{itemize}
+\item \textbf{Chatfuel} is great for quickly getting a Messenger
+  chatbot together if you don't have any technical skills and don't
+  need to handle complex queries.
+\item \textbf{Dialogflow} has sophisticated natural language
+  processing abilities for answering user queries
+\item \textbf{Rasa} is open source which may be useful if you want to
+  host the bot yourself. It can also handle more complex queries, like
+  Dialogflow, but the quality is not quite as good.
+\item \textbf{Landbot} is another non-technical tool which is great
+  for creating a web-based chatbot.
+\item \textbf{Octane AI} is aimed at users with a Shopify site that
+  want to provide their users with a chatbot.
+\end{itemize}
+
+Check out the reviews later in the book for details. If none of these
+seem right, read on! There are plenty more to choose from.
+
+\section*{How to use this book}
+
+The reviews are arranged alphabetically so that you can easily find a
+specific tool. You can think of it as an encyclopaedia of chatbot
+tools.
+
+You probably don't want to read it from start to finish. Start by
+reading about the best tools (above), and the ones with the highest
+ratings. You can read the ones with low ratings if you want a laugh,
+or you have a particular reason you need to use one of those tools.
+
+\raggedbottom
+\pagebreak
+
+\chapter{Chatbot Tool Reviews}
+
+\input{collated.tex}
+
+\chapter{Conclusion}
+
+Chatbot tools are changing fast. I expect that in a few months, at
+least one or two of these tools will be defunct, and there will
+probably be another three or four new ones that will need
+reviewing. This book is generated automatically from the reviews on
+the website, so should be up-to-date.
+
+If you know of a tool that should be included here, please let me
+know.
+
+Finally, if I can help you in any way, please feel free to get in
+touch:
+\noindent
+\begin{block}
+\texttt{\href{mailto:daoud@hyperparameter.com}{daoud@hyperparameter.com}}
+\end{block}
+I would love to hear what you're working on, and will do my best to
+help in whatever way I can.
+
+\end{document}
+

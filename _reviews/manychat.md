@@ -1,6 +1,7 @@
 ---
-layout: default
-title: ManyChat
+layout: review
+title: ManyChat is a great tool for marketers, but it's not the only option
+name: ManyChat
 logo: "manychat-logo.png"
 site: "https://manychat.com/"
 info:
@@ -15,15 +16,20 @@ ratings:
    value: 3
  - name: Value for money
    value: 4
+updated: 2018-07-02
 ---
 
-A Review of ManyChat Chatbot Creator
-=====================================
-
-I like Manychat because it is easy to use, it focuses on doing one
+I like ManyChat because it is easy to use, it focuses on doing one
 thing and doing it well. It is targeted at marketers and only works
 with the Facebook Messenger platform. This makes sense because in my
 opinion there is a huge opportunity for Messenger marketing.
+
+It also has a nice landing page design:
+
+<img src="/img/manychat-landing.png" class="img-fluid">
+
+Getting going
+-------------
 
 The basic setup can literally be done in five minutes. And for many
 marketing applications it's not a bad start. Admittedly all you get is
@@ -35,18 +41,26 @@ default reply, the standard one provided allows users to say they want
 to talk to a human. If the user clicks this, you get a notification
 and can respond directly. This is a very useful feature.
 
+Triggers and tags
+-----------------
+
 You can also match keywords in the user's query. You can trigger
 actions to be taken on these keywords, such as adding a tag to the
 user, subscribing the user to a sequence, or notifying an admin user
 (only available in the Pro option). You can specify a reply to be sent
-to the user, which can include text, an image, card, gallery, list,
+to the user, which can include text, or an image, card, gallery, list,
 audio, video or file.
+
+Bot building
+------------
 
 There is a "Basic Builder" for simple bot interactions, and a "Flow
 Builder" to allow a complex flow of interactions to be constructed. As
 with Chatfuel, you can specify buttons and define actions to be taken
 when the user presses a button, such as sending a message, or
 triggering the start of another "flow".
+
+<img src="/img/manychat-screenshot.png" class="img-fluid">
 
 The fact that the platform is restricted to Messenger means that bots
 built with this tool will make appropriate use of Messenger features,
@@ -56,6 +70,9 @@ don't have to type.
 
 As with any of these flow-based bot builders, you will not build a
 super-intelligent bot - but you may well build a useable one.
+
+Pricing
+-------
 
 Pricing is on a sliding scale depending on the number of "subscribers"
 to your bot:
@@ -68,3 +85,14 @@ to your bot:
 There is also a free option that displays "Powered by ManyChat" in the
 bot's persistent menu. You probably don't want that if you're using
 this professionally.
+
+What next?
+----------
+
+ManyChat is a great tool for marketers. There are other options
+however - you might want to look at
+[MobileMonkey](/reviews/mobile-monkey.html) which has a similar
+feature set and is aimed at the same market. Otherwise, there are
+plenty of [tools aimed at non-technical users](/non-technical.html)
+that provide similar features, even if they are not aimed directly at
+marketers.

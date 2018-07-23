@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -11,13 +12,25 @@
     </script>
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link rel="stylesheet" href="/assets/main.css">
-    <title>Chatbot Tech Reviews - {{page.title}}</title>
+    <title>{{page.title}} - ChatbotTech reviews</title>
+    {% if page.image != null %}
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@ChatbotTech">
+      <meta name="twitter:creator" content="@daarkecloud">
+      <meta name="twitter:title" content="{{ page.title }}">
+      {% if page.summary != null %}
+      <meta name="twitter:description" content="{{ page.summary }}">
+      {% else %}
+      <meta name="twitter:description" content="{{ content | strip_html | strip | truncate: 1500 }}">
+      {% endif %}
+      <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+    {% endif %}
   </head>
   <body>
 
     <nav class="navbar navbar-expand-md sticky-top background-purple">
       <div class="container">
-	<div class="navbar-text mr-3">Chatbot tools:</div>
+	<div class="navbar-text mr-3"><a href="/">ChatbotTech</a></div>
 	<button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 	  <span class="navbar-toggler-icon"></span>
 	</button>
@@ -43,5 +56,8 @@
     <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
     <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
     <script src="{{'/node_modules/popper.js/dist/popper.min.js' | prepend: site.baseurl}}"></script> 
- </body>
+`    <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
+    <script type="text/javascript" src="https://a.optmstr.com/app/js/api.min.js" data-account="53293" data-user="47155" async></script>
+    <!-- / https://optinmonster.com -->
+  </body>
 </html>

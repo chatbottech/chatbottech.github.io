@@ -1,0 +1,78 @@
+[Navbar - same as landing page]
+
+[Heading:] Build Amazing Chatbots
+
+[Sub-heading] The easiest way to make a chatbot
+
+How it works:
+ - Send us copy for your chatbot
+ - We build your chatbot and host it for you
+ - Request changes whenever you like
+
+We optimise chatbots to meet your goals:
+ - Engagement
+ - Conversion
+ - Brand loyalty
+
+
+[Pricing table with 3 columns]
+
+Professional
+ - £499 per month
+ - Chatbot design and development
+ - Hosting on our platform
+ - Optimize for your goals
+ - 10,000 conversations per month
+ - Request up to 5 changes per month
+ - [Button:] Sign up
+
+Enterprise [Highlighted]
+ - £999 per month
+ - Chatbot design and development
+ - Hosting on our platform
+ - Optimize for your goals
+ - 50,000 conversations per month
+ - Request up to 15 changes per month
+ - [Button:] Sign up
+
+Premium
+ - Negotiable
+ - Chatbot design and development
+ - Hosting on our platform
+ - Optimize for your goals
+ - Unlimited conversations
+ - Unlimited changes
+ - Integrate with your API
+ - [Button:] Contact us
+ 
+
+Why use ChatbotTech?
+
+
+A full bespoke service
+ - Your chatbot is designed and built individually to meet your
+   specifications.
+ - We apply data science to optimise your bot to meet your goals. As
+   your bot learns, your return on investment will increase.
+ - Request changes to your bot whenever you like.
+
+
+You can trust us
+ - Money-back guarantee: We're confident we can build the best bots in
+   the business. If you're not satisfied, we'll refund you.
+ - Experience: We have over ten years experience building
+   data-oriented tools in industry.
+ - Passionate: We love chatbots and believe that conversational
+   interfaces will make the world a better place.
+
+
+Custom builds
+ - Want to host your bot on your own servers/Google Cloud/AWS? We can
+   do this.
+ - Want to use DialogFlow/Wit.ai/your platform of choice? We can do
+   this too.
+ - Have some other specific need? Contact us.
+ 
+
+
+[Footer - same as landing page]

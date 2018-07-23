@@ -1,0 +1,3 @@
+@Dialogflow,https://chatbottech.io/reviews/dialogflow.html,84,Dialogflow: Google's chatbot platform doesn't disappoint
+@Dialogflow,https://chatbottech.io/reviews/dialogflow.html,84,"For the query “I’d like a train from Luton to Norwich arriving at 3pm”, Dialogflow is able to detect that Norwich and Luton are “cities” and that 3pm is a time"
+@Dialogflow,https://chatbottech.io/reviews/dialogflow.html,84,Added to this is another really powerful feature: “contexts”. This allows your app to remember things that have happened and reuse that information at a later point.

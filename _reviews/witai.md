@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wit.ai
+name: Wit.ai
 logo: "wit-ai-logo.png"
 site: "https://wit.ai/"
 info:
