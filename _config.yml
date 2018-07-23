@@ -10,3 +10,4 @@ collections:
     output: true
 
 url: https://chatbottech.io
+baseurl: ""
