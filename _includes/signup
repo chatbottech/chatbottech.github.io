@@ -11,7 +11,7 @@
     <div class="row mx-auto">
       <div class="col">
 	<!-- Begin MailChimp Signup Form -->
-	<div id="mc_embed_signup">
+	<div id="mc_embed_signup" class="nice-input">
 	  <form action="https://replycraft.us6.list-manage.com/subscribe/post?u=3fe77eb5fe&amp;id=dfd39bcdba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
 	    <input placeholder="Enter your email" type="email" value="" name="EMAIL" class="required email form-control mr-2" id="mce-EMAIL">
 	    <input placeholder="First name" type="text" value="" name="FNAME" class="form-control m-2" id="mce-FNAME">

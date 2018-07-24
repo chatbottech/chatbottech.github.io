@@ -1,13 +1,5 @@
----
-layout: blank
-tooltype: non-technical
-title: Write a review for ChatbotTech
----
-
-
-<div class="container review">
-  <h1><b>Write a review for ChatbotTech</b></h1>
-  <br>
+<div class="nice-input">
+  <h2>Write a review for ChatbotTech</h2>
   <form action="https://api.staticman.net/v2/entry/chatbottech/chatbottech.github.io/master/reviews"
         method="POST">
     <div class="form-group row my-5">
