@@ -5,50 +5,49 @@ title: Write a review for ChatbotTech
 ---
 
 
-<div class="container title">
+<div class="container review">
   <h1><b>Write a review for ChatbotTech</b></h1>
   <br>
   <form action="https://api.staticman.net/v2/entry/chatbottech/chatbottech.github.io/master/reviews"
         method="POST">
-    <div class="form-group row">
+    <div class="form-group row my-5">
       <!-- <div class="col-lg-6 mx-auto"> -->
-	<label for="name">Name</label>
-	<input class="form-control" id="user-email" name="fields[name]" placeholder="Your name" type="text">
+	<label for="name">Your name</label>
+	<input class="form-control" id="user-email" name="fields[name]" type="text" required>
       <!-- </div> -->
     </div>
-    <div class="form-group row">
+    <div class="form-group row my-5">
       <!-- <div class="col-lg-6 mx-auto"> -->
 	<label for="link">Link to your site</label>
-        <input class="form-control" id="link" name="fields[link]"
-               placeholder="Enter a link (optional)" type="url">
+        <input class="form-control" id="link" name="fields[link]" type="url">
       <!-- </div> -->
     </div>
 
-    <div class="form-group row">
+    <div class="form-group row my-5">
       <label> Rate the tool out of five (one is terrible, five is excellent) </label>
       <br>
       <div id="rating" class="btn-group btn-group-toggle" data-toggle="buttons">
+	<label class="btn btn-primary">
+	  <input type="radio" name="fields[rating]" id="rating1" value="1" autocomplete="off"> <span class="mx-5">1</span>
+	</label>
+	<label class="btn btn-primary">
+	  <input type="radio" name="fields[rating]" id="rating2" value="2" autocomplete="off"> <span class="mx-5">2</span>
+	</label>
 	<label class="btn btn-primary active">
-	  <input type="radio" name="fields[rating]" id="rating1" autocomplete="off" checked> <span class="mx-5">1</span>
+	  <input type="radio" name="fields[rating]" id="rating3" value="3" autocomplete="off" checked> <span class="mx-5">3</span>
 	</label>
 	<label class="btn btn-primary">
-	  <input type="radio" name="fields[rating]" id="rating2" autocomplete="off"> <span class="mx-5">2</span>
+	  <input type="radio" name="fields[rating]" id="rating4" value="4" autocomplete="off"> <span class="mx-5">4</span>
 	</label>
 	<label class="btn btn-primary">
-	  <input type="radio" name="fields[rating]" id="rating3" autocomplete="off"> <span class="mx-5">3</span>
-	</label>
-	<label class="btn btn-primary">
-	  <input type="radio" name="fields[rating]" id="rating4" autocomplete="off"> <span class="mx-5">4</span>
-	</label>
-	<label class="btn btn-primary">
-	  <input type="radio" name="fields[rating]" id="rating5" autocomplete="off"> <span class="mx-5">5</span>
+	  <input type="radio" name="fields[rating]" id="rating5" value="5" autocomplete="off"> <span class="mx-5">5</span>
 	</label>
       </div>
     </div>
 
-    <div class="form-group row">
+    <div class="form-group row long-review my-5">
 	<label for="review">Write your review</label>
-	<textarea class="form-control" name="fields[review]" id="review"></textarea>
+	<textarea class="form-control" name="fields[review]" id="review" required></textarea>
     </div>
 
     <div class="form-group row">

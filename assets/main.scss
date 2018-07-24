@@ -50,3 +50,26 @@ hr {
 pre code {
     color: #ffffff;
 }
+
+.review textarea {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.15);
+    transition: all 0.3s ease-in-out;   
+    color: white;
+    height: 66px;
+}
+
+.review input {
+    border-width: 3px;
+    border-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.15);
+    transition: all 0.3s ease-in-out;   
+    color: white;
+    height: 66px;
+}
+
+
+.review .long-review textarea {
+    height: 500px;
+}
