@@ -3,7 +3,7 @@
   <form action="https://api.staticman.net/v2/entry/chatbottech/chatbottech.github.io/master/reviews"
         method="POST">
     <input name="options[redirect]" type="hidden" value="https://chatbottech.io/review-thanks.html">
-    <!-- <input name="fields[tool]" type="hidden" value="{{ page.name | uri_escape }}"> -->
+    <input name="fields[tool]" type="hidden" value="{{ page.name }}">
     <div class="form-group row my-5">
       <!-- <div class="col-lg-6 mx-auto"> -->
 	<label for="name">Your name</label>
