@@ -9,7 +9,7 @@
   send you occasional news and updates (no more than once a week).<p>
 
     <div class="row mx-auto">
-      <div class="col">
+      <div class="col my-5">
 	<!-- Begin MailChimp Signup Form -->
 	<div id="mc_embed_signup" class="nice-input">
 	  <form action="https://replycraft.us6.list-manage.com/subscribe/post?u=3fe77eb5fe&amp;id=dfd39bcdba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>

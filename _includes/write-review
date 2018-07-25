@@ -1,5 +1,33 @@
 <div class="nice-input">
-  <h2>Write a review for ChatbotTech</h2>
+  <h2>Write a review of {{ page.name }} and win a smart speaker</h2>
+
+  <p>
+    We'd love to hear your view on {{ page.name }}: what makes it
+    great, what is missing, and what you hate about it. Tell us your
+    story and we'll share it with our readers.
+  </p>
+  <p>
+    Your review will help others building chatbots to choose the right
+    tool for them. When we publish your review we can include a
+    (follow) link to your site, which is great for SEO purposes.
+  </p>
+  <p>
+    If you write an amazing review, you could win your choice of an
+    Amazon Echo (worth £89.99) or Google Home Mini (worth £49). We
+    will give away one each month if there are reviews of sufficient
+    quality. If you want to be considered for the prize, include your
+    email with your submission so that we can contact you.
+  </p>
+  <p>
+    What makes a great review?
+    <ul>
+      <li> Entertain us - tell us a story or something funny
+      <li> Inform us - tell us something useful we need to know about
+	the tool
+      <li> Give us your opinion - what do you think was good or bad?
+    </ul>
+  </p>
+
   <form action="https://api.staticman.net/v2/entry/chatbottech/chatbottech.github.io/master/reviews"
         method="POST">
     <input name="options[redirect]" type="hidden" value="https://chatbottech.io/review-thanks.html">
@@ -7,7 +35,13 @@
     <div class="form-group row my-5">
       <!-- <div class="col-lg-6 mx-auto"> -->
 	<label for="name">Your name</label>
-	<input class="form-control" id="user-email" name="fields[name]" type="text" required>
+	<input class="form-control" id="name" name="fields[name]" type="text" required>
+      <!-- </div> -->
+    </div>
+    <div class="form-group row my-5">
+      <!-- <div class="col-lg-6 mx-auto"> -->
+	<label for="name">Your email (optional, kept private)</label>
+	<input class="form-control" id="user-email" name="fields[email]" type="email">
       <!-- </div> -->
     </div>
     <div class="form-group row my-5">
