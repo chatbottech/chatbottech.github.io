@@ -1,5 +1,5 @@
 <div class="nice-input">
-  <h2>Write a review of {{ page.name }} and win a smart speaker</h2>
+  <h2>Write a review of {{ page.name }}</h2>
 
   <p>
     We'd love to hear your view on {{ page.name }}: what makes it
@@ -10,13 +10,6 @@
     Your review will help others building chatbots to choose the right
     tool for them. When we publish your review we can include a
     (follow) link to your site, which is great for SEO purposes.
-  </p>
-  <p>
-    If you write an amazing review, you could win your choice of an
-    Amazon Echo (worth £89.99) or Google Home Mini (worth £49). We
-    will give away one each month if there are reviews of sufficient
-    quality. If you want to be considered for the prize, include your
-    email with your submission so that we can contact you.
   </p>
   <p>
     What makes a great review?
@@ -36,12 +29,6 @@
       <!-- <div class="col-lg-6 mx-auto"> -->
 	<label for="name">Your name</label>
 	<input class="form-control" id="name" name="fields[name]" type="text" required>
-      <!-- </div> -->
-    </div>
-    <div class="form-group row my-5">
-      <!-- <div class="col-lg-6 mx-auto"> -->
-	<label for="name">Your email (optional, kept private)</label>
-	<input class="form-control" id="user-email" name="fields[email]" type="email">
       <!-- </div> -->
     </div>
     <div class="form-group row my-5">
