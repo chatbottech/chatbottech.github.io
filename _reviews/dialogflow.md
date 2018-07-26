@@ -7,7 +7,7 @@ site: "https://dialogflow.com/"
 info:
  - name: Platforms
    value: "Messenger, Google Assistant, Slack, Kik, Line, Skype, Cisco Spark, Cisco Tropo, Telegram, Twilio, Twitter and Viber."
-tags: [any, non-technical, developer]
+tags: [any, non-developer]
 score: 84
 updated: 2018-03-23
 

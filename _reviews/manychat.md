@@ -7,12 +7,12 @@ site: "https://manychat.com/"
 info:
  - name: Platforms
    value: Messenger only
-tags: [any, non-technical]
-score: 72
+tags: [any, marketing]
+score: 80
 ratings:
  - name: Ease of use
    value: 5
- - name: Intelligence potential
+ - name: Features
    value: 3
  - name: Value for money
    value: 4

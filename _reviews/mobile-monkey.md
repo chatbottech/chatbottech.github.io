@@ -7,15 +7,15 @@ site: "https://mobilemonkey.com/"
 info:
  - name: Platforms
    value: "Messenger"
-tags: [any, non-technical]
-score: 68
+tags: [any, marketing]
+score: 87
 ratings:
  - name: Ease of use
    value: 4
- - name: Intelligence potential
-   value: 3
- - name: Value for money
+ - name: Features
    value: 4
+ - name: Value for money
+   value: 5
 updated: 2018-06-19
 ---
 
@@ -36,14 +36,13 @@ your bot's replies.
 Monkey features
 ---------------
 
-MobileMonkey is not really different to any other chatbot building
-tool in terms of the features it provides. The difference is in how it
-positions itself. It is aimed squarely at marketers, specifically,
-those using Facebook Messenger.
+MobileMonkey proivdes tools for building chatbots that are comparable
+with other tools aimed at non-technical users, such as
+[ChatFuel](/reviews/chatfuel.html). Where it really shines, though, is
+in the features it provides for marketing professionals.
 
-This means that the features that are emphasised in the promotional
-material are those features likely to appeal to marketers. They have a
-feature called "[Chat Blast](https://mobilemonkey.com/chatbots/facebook-messenger-chat-blaster)",
+They have a feature called "[Chat
+Blast](https://mobilemonkey.com/chatbots/facebook-messenger-chat-blaster)",
 which is just the ability to send messages to multiple users. This
 could be all your users, or a particular segment.
 
@@ -56,6 +55,13 @@ call
 Similarly, MobileMonkey's [live chat](https://mobilemonkey.com/chatbots/live-operator-chat-takeover/)
 feature is similar to Chatfuel's, available via a
 [plugin](https://docs.chatfuel.com/plugins/plugin-documentation/live-chat).
+
+If you are serious about Messenger marketing, however, there are some
+features that are particularly valuable. MobileMonkey provides
+sophisticated tools for sending drip campaigns; in particular, the
+campaign can be targeted at a particular segment. This kind of feature
+is what have come to expect of email marketing tools; and it is only
+natural to want to apply the same to Messenger.
 
 Flow monkeys
 ------------
@@ -116,7 +122,8 @@ What next?
 
 MobileMonkey's closest competitor is
 [ManyChat](https://manychat.com/), which is also aimed at
-marketers. It has a similar feature set, but we thought it was
-slightly easier to use and better value. Check out the
-[full review here](/reviews/manychat.html) or see 
-[all the best non-technical chatbot tools](/non-technical.html).
+marketers. It's features are perhaps slightly behind MobileMonkey's,
+but we thought it was slightly easier to use. The free tier is also
+not as attractive as MobileMonkey's. Check out the [full review
+here](/reviews/manychat.html) or see [all the best non-technical
+chatbot tools](/non-technical.html).

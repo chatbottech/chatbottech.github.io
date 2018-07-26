@@ -1,0 +1,11 @@
+---
+layout: blank
+tooltype: marketing
+title: Chatbot tools for marketers
+short: Marketing
+priority: 3
+---
+
+{% assign reviews = site.reviews | sort:"score" | reverse %}
+{% include collection %}
+

@@ -7,7 +7,7 @@ site: "https://www.ibm.com/watson/services/conversation/"
 info:
  - name: Platforms
    value: "Messenger, Slack, Twilio, Web, App"
-tags: [any, non-technical, developer]
+tags: [any, developer]
 score: 76
 updated: Wed Apr 18 12:48:47 BST 2018
 
