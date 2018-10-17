@@ -11,11 +11,11 @@ tags: [any, non-technical]
 score: 72
 ratings:
  - name: Ease of use
-   value: 5
+   value: 4
  - name: Intelligence potential
    value: 3
  - name: Value for money
-   value: 4
+   value: 3
 ---
 
 Landbot is unique in several respects. It is the only platform that
@@ -44,3 +44,12 @@ Landbot has the following pricing structure:
  - €50 per month to remove the Landbot branding, allow human takeover
    and integrate webhooks
  - €130 per month to allow access to callbacks and the messages API
+
+Update: I had a report from a reader that is a paying a Landbot
+user. They told me that Landbot support was not great. The user wanted
+to make use of the Javascript integration and needed help with getting
+it to work, as the documentation did not go into enough
+detail. Landbot support were not very helpful. I even tried contacting
+them through Twitter to find out what was going on, but even this did
+not seem to help. Therefore, tread with caution! I have knocked a few
+stars off the ratings until I hear that this issue has improved.
