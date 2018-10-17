@@ -8,7 +8,7 @@ info:
  - name: Platforms
    value: "Web, Messenger"
 tags: [any, non-technical]
-score: 72
+score: 65
 ratings:
  - name: Ease of use
    value: 4
